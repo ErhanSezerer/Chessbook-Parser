@@ -1,0 +1,587 @@
+END-GAMES FROM MASTER PLAY
+
+
+
+In the following pages I give some instructive examples taken
+from tournament play. Step by step we will find how very
+important is the knowledge of the simple endings treated in the
+last chapter. We shall see that it is often necessary to consider
+many moves ahead to find the correct line, but that it is nearly
+always possible to foresee every consequence with unfailing
+certainty. Moreover, because of the reduction of forces there is
+no call to take very many variations into consideration.  This
+explains why there is a tendency in modern master play to enforce
+the exchange of pieces, as soon as there is the slightest
+advantage sufficient to bring about one of the elementary end-
+game positions, in which the win can be forced.
+
+
+1. FROM A GAME TEICHMANN-BLACKBURNE (BERLIN, 1897).
+
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    | #P |    |
+       |---------------------------------------|
+     6 |    |    | #P |    | #K | #P |    | #P |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 | #P |    | #P |    |    |    |    | ^P |
+       |---------------------------------------|
+     3 | ^P |    | ^P |    |    |    | ^P |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    | ^P | ^K |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 82.
+
+Black has an extra pawn on the Queen's side. But as it is
+doubled, the material superiority is of no account. A perceptible
+advantage, however, lies in the fact that White cannot bring
+about a "forced move" position, as Black has the move P-QB4 in
+reserve. White has also an infinitesimal weakness on the King's
+side, the Rook's pawn having advanced two squares and being
+therefore an easy mark. This disadvantage soon becomes apparent.
+
+          1. P-B3            K-B4
+          2. K-B2            P-R4
+          3. K-Kt2           P-Kt4
+          4. K-R3            K-K4
+
+With this move advantage is taken of one of White's weaknesses.
+White must exchange pawns. If the King moves, Black captures,
+freeing B 5 for his King, from where he can later on get to K6 or
+Kt6. But after the exchange at Kt4, Black has the chance of
+obtaining a "distant passed pawn" on the Rook's file.
+
+          5. PxP             PxP
+          6. K-Kt2           K-B4
+          7. K-R2            K-B3
+
+If Black were to play P-R5 at once, White would reply with 8. K-
+R3, and after PxP, 9. KxP. Black would have to give up the spare
+move P-B4, to gain the square at B5 for his King. The game then
+would be drawn after 10. K-Kt2!  K-B5, 11. K-B2, because White
+maintains the opposition, and Black cannot get through at K6 or
+Kt6. Black therefore manoeuvres his King first in such a way that
+the square at his B4 is only reached when the White King is at
+Kt3.
+
+          8. K-Kt2           K-Kt3
+          9. K-R2            P-R5
+
+Now neither PxP nor P-B4 is of any use. In the first case Black
+obtains the distant passed pawn. In the second White obtains the
+distant passed pawn after 10. P-B4, PxBP; 11. PxRP, but loses it
+again after K-R4; 12. K-R3, P-B4.
+
+          10. K-R3           PxP
+          11. KxP            K-B4
+
+At last Black has captured the coveted square, whilst keeping the
+spare move in hand.
+
+          12. K-B2           K-B5
+
+The White King cannot move to Kt2 now, because in that case Black
+would move the King to the White QBP and queen in seven moves,
+and White, after seven moves, would only have the KB pawn at B7.
+
+          13. K-K2           K-Kt6
+          14. K-K3           P-B4
+
+and wins, for White cannot hold the KBP now, but must capture the
+KtP in exchange for it, after which the Black King reaches the
+Queen's side two moves ahead, e.g.:
+
+          15. K-K2           K-Kt7
+          16. K-K3           K-B8!
+          17. K-K4           K-B7
+          18. K-B5           KxP
+          19. KxP            K-K6, etc.
+
+Black would have forced a win also if White had played K-Kt2 on
+his twelfth move thus: 12. K-Kt2, K-B5; 13. K-B2.
+
+Now White has the opposition, and after Black wrings it from him
+by playing the spare move P-B4, he assumes it again with 14. K-
+K2, K-Kt6; 15. K-K3. But he cannot maintain it after Black's K-R6
+because the square at Q3 for distant opposition is not
+accessible. After 16. K-Q2, K-R7!; 17. K-K3, K-Kt6; 18. K-K2, K-
+Kt7; 19. K-K3, K-B8 we get the same result as before.
+
+
+II. FROM A GAME ED. LASKER-ROTLEVI (HAMBURG, 1910).
+
+
+        ---------------------------------------
+     8 |    |    |    |    |    | #Kt |    |   |
+       |---------------------------------------|
+     7 | #P | #P | #P |    | #K |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    | ^K |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    | ^P |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^Kt|    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 83.
+
+White has the advantage, because Black must keep either his King
+or his Knight permanently near the passed pawn, guarding against
+its advance, whilst both White's King and Knight can attack the
+Black pawns. As yet they stand so far in the rear that the White
+King cannot approach them Therefore White must first try to force
+their advance.
+
+          1. Kt-B5          P-Kt3
+          2. Kt-Q3          P-R4
+
+This is now necessary, because the square B3 is weak after P-Kt3
+and the White Knight threatens to win the Rook's pawn eventually
+with a check at B6. For this reason Kt-Q 2, for instance, could
+not be played instead of the move in the text, because 3. Kt-K5
+would follow. Black now cannot exchange, of course, otherwise the
+position would resolve itself to an easy end game win similar to
+the one in Diagram 56. There would be nothing left but Kt-Kt1 to
+oppose the threat of Kt-B6ch, and this would get the Knight
+entirely out of play, so that White could queen the passed pawn
+easily after 4. K-Kt6.
+
+          3. K-K5           P-B3
+
+The King was threatening to enter via Q5 and B6.
+
+          4. K-B5           Kt-K3
+
+If Black wishes to obviate the threat: Kt-K5-B4, and plays P-Kt4,
+the White King goes to QB5 and wins all the pawns easily.
+Therefore Black endeavours to sacrifice a pawn in order to
+exchange the two others, after which a draw could be forced by
+exchanging the Knight for the remaining White pawn.
+
+          5. Kt-K5          P-B4
+          6. Kt-B4          P-Kt4
+          7. KtxP           P-B5
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    | #K |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    | #Kt|    |    |    |
+       |---------------------------------------|
+     5 | ^Kt| #P |    |    |    | ^K |    |    |
+       |---------------------------------------|
+     4 |    |    | #P |    |    | ^P |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 84.
+
+          8. K-K5          Kt-B4
+          9. Kt-B6ch       K-B1!
+
+Not K-B2, because of 10. K-Q4, Kt-Q6; 11. Kt-K5ch.
+
+         10. Kt-R7
+
+Here White had only considered the following answer:
+
+Kt-Q6ch; 11. K-Q4, KtxKtP; 12. KtxP, Kt-Q6; 13. P-B5, Kt-Kt5; 14.
+Kt-B3, Kt-B7ch: 15. KxP, Kt-K6ch; 16. K-B5, KtxP; 17. P-R4, Kt-
+K2; 18. Kt-Q5, Kt-B1; 19. K-B6, K-K1; 20. K-B7, Kt-R7; 21. K-Kt7,
+and wins the Knight.
+
+Black however draws, through a pretty combination:
+
+          10. ...           P-Kt5
+          11. K-Q4          P-B6
+          12. K-B4          PxP
+          13. KxP           KtxP
+
+and White cannot prevent the ultimate exchange of Kt for P.  The
+last winning chance would have been: 10. K-Q4!, Kt-Q; 11. K-B3.
+This is in any case the more plausible line, because now White
+can attack the pawns with both King and Knight, as both the Black
+pieces are away from the field of operations. The sequel could
+be: 11. KtxBP; 12. P-R3  (Kt-R7 would only draw: Kt-K7ch; 13. K-
+Kt4, Kt-B8 14. P-R3, Kt-R7ch; 15. KxP, P-B6); 12. Kt-Q4ch 13. K-
+Q4, Kt-B5; 14. K-K4 (Kt-R7 ?, Kt-K7ch!!; 15 K-K3, P-B6), Kt-Q6;
+15. P-Kt4, Kt-Kt7 16 Kt-Q4, and wins
+
+
+III. From a game Blackburne-Schlechter (Vienna, 1898).
+
+
+        ---------------------------------------
+     8 | #R |    |    |    | #R |    |    |    |
+       |---------------------------------------|
+     7 | #P | #P | #K | #B |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    | #P |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    | ^P |    |    |    | #Q |
+       |---------------------------------------|
+     4 |    |    | ^P |    |    | ^Q |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    | ^K | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    |    |    | ^R |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag.  85
+
+White has just played Q-B4. P-B5 is threatened, and Black is
+forced to exchange Queens. The ensuing end-game, however, is
+inferior for Black, because the QP is weak and White threatens
+eventually to force his Queen's Pawn through.
+
+          1. ...           Q-B4
+          2. QxQ           BxQ
+          3. Kt-Q4         B-Kt3
+          4. RxR           RxR
+          5. R-K1          RxR
+
+If Black wants to avoid the exchange, he must yield up the King's
+file to White, and that would surely spell disaster, as the Black
+Rook would have no field of action, and would have to go to Q1 to
+avoid the loss of a pawn through Kt-Kt5ch, after which the White
+Rook would take possession of the seventh rank, fettering the
+action of the Bishop into the bargain.
+
+          6. KxR            B-Q6
+          7. P-QKt3         K-Q2
+
+Black is condemned to inactivity, and White can quietly set to
+work to force his pawn through.
+
+          8. K-Q2           B-K5
+          9. P-Kt3          B-Kt8
+         10. P-QR3          B-K5
+         11. K-K3           B-Kt8
+         12. Kt-B3
+
+In order to play P-QKt4 and P-B5, then to force Black to exchange
+at B5, White must first have the opportunity of bearing a second
+time on Black's Queen's Pawn.  Therefore he prepares the
+manoeuvre Kt-B3-Q2-B4.
+
+          12. ...            K-K2
+          13. P-QKt4         B-B4
+          14. P-B5           B-Q2
+          15. K-Q4           B-K1
+          16. Kt-Q2          B-Q2
+          17. Kt-B4          PxPch
+          18. PxP            P-B3
+
+It is not yet easy to materialise the advantage in position The
+advance P-Q6ch would be very bad, as B6 and K6 would be made
+accessible for Black. White starts by tempting the pawns forward
+and thus systematically creates points of attack.
+
+          19. Kt-Kt2          B-B4
+          20. P-QR4           K-Q2
+          21. P-R5            P-QR3
+
+The Queen's side is paralysed. The text move is forced, as P-R6
+would give White yet another passed pawn. Now White turns his
+attention to the King's side.
+
+          22. Kt-B4           K-B2
+          23. Kt-Q6           B-Q2
+          24. K-K4            B-R5
+          25. P-Kt4           B-B7ch
+          26. K-Q4            B-Kt3
+
+Black wishes to play P-R4, in order to get a passed pawn too, the
+only chance of saving the game.
+
+          27. P-R3          K-Kt1
+
+Now P-R4 would be countered by Kt-B5, forcing the exchange and
+leaving a backward pawn at Kt2 and the Rook's pawn would be bound
+to fall.
+
+          28. Kt-B5          BxKt
+          29. PxB            K-B2
+
+          ---------------------------------------
+       8 |    |    |    |    |    |    |    |    |
+         |---------------------------------------|
+       7 |    | #P | #K |    |    |    | #P | #P |
+         |---------------------------------------|
+       6 | #P |    |    |    |    | #P |    |    |
+         |---------------------------------------|
+       5 | ^P |    | ^P | ^P |    | ^P |    |    |
+         |---------------------------------------|
+       4 |    |    |    | ^K |    |    |    |    |
+         |---------------------------------------|
+       3 |    |    |    |    |    |    |    | ^P |
+         |---------------------------------------|
+       2 |    |    |    |    |    |    |    |    |
+         |---------------------------------------|
+       1 |    |    |    |    |    |    |    |    |
+          ---------------------------------------
+           A    B    C    D    E    F    G    H
+
+
+                      Diag. 86.
+
+It would now seem as if Black might have played P-KKt4 here,
+securing a passed pawn, and forcing a draw. After 30. P-R4 Black
+would play P-R3, and it is not evident how White is to win. But
+29. ... P-KKt4 is parried by PxP e.p. The difference in the pawn
+positions, which decides the issue for White, is found in the
+fact that the White passed pawn at Q5 is unassailable because the
+support of the BP cannot be taken away by Black's P-Kt3, whilst
+Black's passed pawn at his B3 can be isolated at any time through
+P-R4-R5. White would take up a position on the Knight's file with
+the King, and push on the Rook's pawn.  The isolated pawns are
+then an easy prey. On the text move White also pushes the Rook's
+pawn on to compel P-R3 and reduce Black to moves by the King. The
+passed Queen's pawn decides the game.
+
+          30. K-K4          K-Q2
+          31. K-B4          K-K2
+          32. K-Kt4         K-Q2
+          33. P-R4          K-B1
+          34. P-R5          P-R3
+
+Otherwise there follows: P-R6, K-R5, etc.
+
+          35. K-B4          K-Q2
+          36. K-K4          K-B2
+          37. P-Q6ch        K-B1
+          38. K-Q5          K-Q2
+          39. P-B6ch        PxPch
+
+              (compare Diagram 68)
+
+          40. K-B5          Resigns
+
+
+IV. FROM A GAME BIRD-JANOWSKI.
+
+
+          ---------------------------------------
+       8 |    |    |    |    |    |    | #K |    |
+         |---------------------------------------|
+       7 | #P |    | ^B |    |    |    |    | #P |
+         |---------------------------------------|
+       6 |    |    |    |    |    |    |    |    |
+         |---------------------------------------|
+       5 | ^P |    |    |    |    | #P |    |    |
+         |---------------------------------------|
+       4 |    | ^P |    |    | #P |    |    |    |
+         |---------------------------------------|
+       3 |    |    | ^P |    |    |    | ^P |    |
+         |---------------------------------------|
+       2 |    |    |    |    | ^K |    |    | ^P |
+         |---------------------------------------|
+       1 | #R |    |    |    |    |    |    |    |
+          ---------------------------------------
+           A    B    C    D    E    F    G    H
+
+                      Diag. 87
+
+In spite of the preponderance of material, the win is not an easy
+one for Black, because of White's alarming pawn array on the
+Queen's side. The King must first make use of his great power as
+an end-game piece.
+
+          1. ...                K-B2
+          2. P-Kt5              K-K3
+          3. P-Kt6              PxP
+          4. PxP                K-Q2
+          5. B-K5
+
+threatens P-Kt7. But as White must first move his Bishop to cover
+his pawn, the Rook's pawn is lost, and the manoeuvre therefore
+unsound. P-R3 was indicated; it threatens the break-up of the
+Black pawns by P-Kt4 and their capture by the King.
+
+          5. ...                K-B3
+          6. B-Q4               R-R2ch
+          7. K-K3               RxP
+          8. K-B4               R-Q7!
+          9. P-Kt4              RxB
+
+Black reduces the position to an elementary ending, which is
+theoretically a win. Whilst the two White passed pawns are
+isolated and fall singly, Black obtains two passed pawns, which
+are united and unassailable.
+
+          10. PxR               P-K6
+          11. KxKP              PxP
+          12. K-B4              P-R4
+          13. P-Q5ch            KxKtP
+          14. K-K5              K-B2
+              Resigns.
+
+
+V. FROM A GAME STEINER-FORGACZ (SZEKESFEHERVAR, 1907).
+
+
+        ---------------------------------------
+     8 | #R |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 | #P |    | #P |    | #K | #P | #P | #P |
+       |---------------------------------------|
+     6 |    | #P |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     4 |    | ^R |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P |    | ^P |    |    |    | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    |    |    |    | ^K |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 88
+
+White has an advantage in the greater mobility of his Rook, and
+makes the most of it in an instructive fashion.
+
+          1. R-Kt4          P-Kt3
+
+White provokes this move in order to produce a weakness at KB6.
+
+          2. K-K2           K-K3
+          3. R-KB4          R-KB1
+
+Black naturally dare not allow the Rook to penetrate into the
+seventh.
+
+          4. P-Q4           P-QB4
+
+This move would win the game, if the Rooks had been exchanged,
+because in that case the distant passed pawn which Black could
+obtain on the QKt file would decide the issue.  But, supported by
+the mobile Rook, the centre pawns become irresistible. Instead of
+the text move, P-KB4 was necessary in order to release the Rook.
+
+          5. P-B3           PxP
+          6. PxP            P-KB4
+
+If it were not for the Rooks, the centre pawns would not help
+White, because Black would obtain a passed pawn on either wing.
+
+          7. K-Q3           P-KKt4
+          8. R-B2           R-B1
+          9. P-Kt4          P-B5
+
+If PxP, 10. R-B6ch, K-K2; 11. R-R6 wins.
+
+          10. P-KR4         P-KR3
+          11. PxP           PxP
+          12. R-R2          R-B1
+          13. R-R6ch        K-K2
+          14. P-Q5          P-B6
+          15. R-K6ch        K-Q2
+          16. R-B6!         Resigns.
+
+For after RxR, 17. PxR, White captures the BP, and still
+overtakes the passed pawn which Black obtains on the Queen's
+wing; the pawns at Q5 and B6 are unassailable (K-K8, P-Q6, K-B7,
+P-Q7, etc.). The consequences of 16. R-B6 had to be calculated to
+a nicety. If, for instance, the QKtP were already at his fourth,
+White would lose. In four moves Black would have one of his pawns
+at his R6, the other at Kt5. In the meantime White would have
+taken the BP and come back to the Q file. Now Black would win
+with P-Kt6, because after PxP the RP queens unmolested.
+
+
+VI. FROM A GAME CHAROUSEK-HEINRICHSEN (COLOGNE, 1898).
+
+
+        ---------------------------------------
+     8 |    |    | #R |    |    |    | #K |    |
+       |---------------------------------------|
+     7 | #P | #P |    | #Q | #R | #P | #P |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    | #P |
+       |---------------------------------------|
+     5 |    |    | #P |    |    | ^Q |    | ^P |
+       |---------------------------------------|
+     4 |    |    |    | #P | ^R |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P |    |
+       |---------------------------------------|
+     1 |    |    |    |    | ^R |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 89
+
+White's position is superior; firstly, because the only open file
+on the board is his, and secondly, because the Black Queen's side
+pawns are advanced, and therefore weak for a King's ending. After
+exchanging the Queen and one Rook, the possession of the King's
+file ensures the advance of the King to K4 and from there to Q5.
+Then the weakness of Black's pawns decides the game.
+
+          1. QxQ          RxQ
+          2. R-K8ch       RxR
+          3. RxRch        K-R2
+          4. K-R2         P-KKt3
+          5. K-Kt3
+
+PxP is no threat, because White wins the pawn back at once with
+R-K5. By capturing, Black would only dislocate his pawns.
+
+          5. ...                   KKt2
+          6. K-B4                  K-B3
+          7. R-K5                  P-Kt3
+          8. K-K4                  R-Q3
+          9. P-KB4                 R-K3
+
+Black probably hopes for a counter chance by getting a distant
+passed pawn on the KRook's file. But he underrates the weakness
+of the Queen's side pawns, and even without the exchange of
+Rooks, White would win, by settling the King's side first and
+then tearing up the Queen's side, as in the game:  10. P-KKt4, R-
+K2; 11. PxP, PxP; 12. P-Kt5ch, PxP; 13. PxPch.
+
+          10. PxP                  PxP
+          11. K-Q5                 RxR
+          12. PxRch               K-K2
+          13. P-QKt4               Resigns
+
+Black must capture, as he needs seven moves in which to ex change
+the Knight's pawn and queen his Rook's pawn, whilst in that time
+White can win the QP after PxP, and yet arrive in time with his
+King to stop the pawn from queening.
+
+After l3. ... PxP, however, there follows 14. KxP. Then White
+covers his passed pawn with P-Q4, and his King, having full
+freedom, captures all the Black pawns.
+

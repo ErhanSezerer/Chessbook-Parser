@@ -1,0 +1,448 @@
+CHAPTER II
+
+HINTS FOR BEGINNERS--ELEMENTARY COMBINATIONS
+
+
+
+THE mental development of the chess player is a gradual struggle
+from a state of chaos to a clear conception of the game. The
+period required for such development largely depends upon the
+special gifts the learner may possess, but in the main the
+question of methods predominates. Most beginners do not trouble
+very much about any particular plan in their study of chess, but
+as soon as they have learnt the moves, rush into the turmoil of
+practical play. It is self-evident that their prospects under
+such conditions cannot be very bright. The play of a beginner is
+planless, because he has too many plans, and the capacity for
+subordinating all his combinations to one leading idea is non-
+existent. Yet it cannot be denied upon investigation that a
+certain kind of method is to be found in the play of all
+beginners, and seems to come to them quite naturally. At first
+the pawns are pushed forward frantically, because there is no
+appreciation of the power and value of the pieces. Conscious of
+the inferiority of the pawns, the beginner does not conclude that
+it must be advantageous to employ the greater power of the
+pieces, but is chiefly concerned with attacking the opposing
+pieces with his pawns in the hope of capturing them. His aim is
+not to develop his own forces, but to weaken those of his
+opponent.  His combinations are made in the hope that his
+adversary may not see through them, nor does he trouble much
+about his opponent's intentions. When most of his pawns are gone,
+then only do his pieces get their chance. He has a great liking
+for the Queen and the Knight, the former because of her
+tremendous mobility, the latter on account of his peculiar step,
+which seems particularly adapted to take the enemy by surprise.
+When watching beginners you will frequently observe numberless
+moves by a peripatetic Queen, reckless incursions by a Knight
+into the enemy's camp, and when the other pieces join in the
+fray, combination follows combination in bewildering sequence and
+fantastic chaos. Captures of pieces are planned, mating nets are
+woven, perhaps with two pieces, against a King's position, where
+five pieces are available for defence. This unsteadiness in the
+first childish stages of development makes it very difficult for
+the beginner to get a general view of the board. Yet the
+surprises which each move brings afford him great enjoyment.
+
+A few dozen such games are by no means wasted. After certain
+particular dispositions of pieces have proved his undoing, the
+beginner will develop the perception of threats.  He sees dangers
+one or two moves ahead, and thereby reaches the second stage in
+his development.
+
+His combinations will become more and more sound, he will learn
+to value his forces more correctly, and therefore to husband his
+pieces and even his pawns with greater care. In this second stage
+his strength will increase steadily, but, and this is the
+drawback, only as far as his power of combination is concerned.
+Unless a player be exceptionally gifted, he will only learn after
+years of practice, if at all, what may be termed  "positional
+play." For that, it is necessary to know how to open a game so as
+to lay the foundation for a favourable middle game, and how to
+treat a middle game, without losing sight of the possibilities of
+the end-game. It is hopeless to try to memorise the various
+openings which analysis have proved correct, for this empirical
+method fails as soon as the opponent swerves from the recognised
+lines of play. One must learn to recognise the characteristics of
+sound play. They apply to all and any position, and the
+underlying principles must be propounded in a manner generally
+applicable. And this brings me to the substance of my subject,
+round which I will endeavour to build up a system compatible with
+common sense and logic.
+
+Before I proceed to develop my theme, I shall set down a number
+of elementary rules which will facilitate the understanding of
+such simple combinations as occur at every step in chess.
+
+If we ignore the comparatively small proportion of games in which
+the mating of the opponent's King is accomplished on a full
+board, we can describe a normal, average game of chess in the
+following way. Both sides will employ their available forces more
+or less advantageously to execute attacking and defensive
+manoeuvres which should gradually lead to exchanges. If one side
+or the other emerges from the conflict with some material gain,
+it will generally be possible to force a mate in the end-game,
+whilst if both sides have succeeded by careful play to preserve
+equality of material, a draw will generally ensue.
+
+It will be found a little later that a single pawn may suffice,
+with some few exceptions, to achieve a victory, and we shall
+adopt the following leading principle for all combinations, viz.
+loss of material must be avoided, even if only a pawn.  It is a
+good habit to look upon every pawn as a prospective Queen. This
+has a sobering influence on premature and impetuous plans of
+attack.
+
+On the other hand, victory is often brought about by a timely
+sacrifice of material.
+
+But in such cases the sacrificing of material has its
+compensation in some particular advantage of position. As
+principles of position are difficult for beginners to grasp, I
+propose to defer their consideration for the present and to
+devote my attention first to such combinations as involve
+questions of material. Let us master a simple device that makes
+most combinations easy both for attack and defence. It amounts
+merely to a matter of elementary arithmetic, and if the beginner
+neglects it, he will soon be at a material disadvantage.
+
+Diagram 4 may serve as an example:
+
+        ---------------------------------------
+     8 |    |    |    |    | #R |    |    | #K |
+       |---------------------------------------|
+     7 | #P | #P | #Q | #Kt| #R |    | #P |    |
+       |---------------------------------------|
+     6 |    |    | #Kt| #B | #P |    |    | #P |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    | ^P |    |    |
+       |---------------------------------------|
+     3 |    | ^P |    | ^Kt|    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^B |    | ^Q | ^R |    | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    |    |    | ^R |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 4.
+
+It is Black's move, and we will suppose he wishes to play P-K4. A
+beginner will probably calculate thus: I push on my pawn, he
+takes with his pawn, my Knight takes, so does his, then my Bishop
+takes, and so on. This is quite wrong, and means waste of time
+and energy.
+
+When the beginner considers a third or fourth move in such a
+combination, he will already have forgotten which pieces he
+intended to play in the first moves. The calculation is perfectly
+simple upon the following lines: I play P-K4, then my pawn is
+attacked by a pawn and two Knights, a Bishop and two Rooks, six
+times in all. It is supported by a Bishop, two Knights, two Rooks
+and a Queen, six times in all. Therefore I can play P-K4,
+provided the six units captured at K4 are not of greater value
+than the six white units which are recaptured. In the present
+instance both sides lose a pawn, two Knights, two Rooks, and a
+Bishop, and there is no material loss. This established, he can
+embark on the advance of the KP without any fear.
+
+Therefore: in any combination which includes a number of
+exchanges on one square, all you have to do is to count the
+number of attacking and defending units, and to compare their
+relative values; the latter must never be forgotten. If Black
+were to play KtxP in the following position, because the pawn at
+K 5 is attacked three times, and only supported twice, it would
+be an obvious miscalculation, for the value of the defending
+pieces is smaller. [Footnote: It is difficult to compare the
+relative value of the different pieces, as so much depends on the
+peculiarities of each position, but, generally speaking, minor
+pieces, Bishop and Knight, are reckoned as equal; the Rook as
+equal to a minor piece and one or two pawns (to have a Rook
+against a minor piece, is to be the "exchange"  ahead). The Queen
+is equal to two Rooks or three minor pieces.]
+
+        ---------------------------------------
+     8 |    |    |    |    | #R |    | #K |    |
+       |---------------------------------------|
+     7 |    |    | #P |    | #R |    | #P | #P |
+       |---------------------------------------|
+     6 |    | #P |    |#Kt |    | #P |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^P |    |    |    |^Kt |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^B |    |    |    | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    |    | ^R |    | ^K |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 5.
+
+Chess would be an easy game if all combinations could be tested
+and probed exhaustively by the mathematical process just shown.
+But we shall find that the complications met with are extremely
+varied. To give the beginner an idea of this, I will mention a
+few of the more frequent examples. It will be seen that the
+calculation may be, and very frequently
+
+        ---------------------------------------
+     8 |    |    | #R |    |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P |    |    |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    | #P | #B | ^R |    |#Kt |    |    |
+       |---------------------------------------|
+     5 |    |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    | ^B | ^P |    |    |^Kt |    |    |
+       |---------------------------------------|
+     2 |    | ^P |    |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    |    |    | ^R |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 6.
+
+is, upset by one of the pieces involved being exchanged or
+sacrificed. An example of this is found in Diagram 6; KtxP
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    | #P | #K |
+       |---------------------------------------|
+     6 | #B | #P |    |    |    |    |    | #P |
+       |---------------------------------------|
+     5 |    |    | #P | ^P |#Kt |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |^Kt |    | ^B |    |
+       |---------------------------------------|
+     2 | ^P |    |    |    |    |    |    | ^P |
+       |---------------------------------------|
+     1 | ^K |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 7.
+
+fails on account of R X B; this leaves the Knight unprotected,
+and White wins two pieces for his Rook. Neither can the Bishop
+capture on K5 because of R X Kt. leaving the Bishop unprotected,
+after which BxKt does not retrieve the situation because the Rook
+recaptures from B6.
+
+A second important case, in which our simple calculation is of no
+avail, occurs in a position where one of the defending pieces is
+forced away by a threat, the evasion of which is more important
+than the capture of the unit it defends. In Diagram 7, for
+instance, Black may not play KtxP, because White, by playing P-
+Q6, would force the Bishop to Kt4 or B1, to prevent the pawn from
+Queening and the Knight would be lost. A further example of the
+same type is given in Diagram 8. Here a peculiar mating threat,
+which occurs not
+
+        ---------------------------------------
+     8 |    |    | #B |    | #Q | #R |    | #K |
+       |---------------------------------------|
+     7 |    |    |    |    |#Kt |    | #P | #P |
+       |---------------------------------------|
+     6 | #P |^Kt |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    | ^R |    |^Kt |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^Q |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P |    |    |    |    |    | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 8.
+
+infrequently in practical play, keeps the Black Queen tied to her
+KB2 and unavailable for the protection of the B at BI.
+
+White wins as follows:
+
+1. KtxB, KtxKt; 2. RxKt, QxR; 3. Kt-B7ch, K-Kt1; 4. Kt-R6 double
+ch, K-R1; 5 Q-Kt8ch, RxQ; 6. Kt-B7 mate.
+
+We will now go a step further and turn from "acute"  combinations
+to such combinations as are, as it were, impending.   Here, too,
+I urgently recommend beginners (advanced players do it as a
+matter of course) to proceed by way of simple arithmetical
+calculations, but, instead of enumerating the attacking and
+defending pieces, to count the number of possibilities of attack
+and defence.
+
+Let us consider a few typical examples. In Diagram 9, if Black
+plays P-Q5, he must first have probed the position in the
+following way. The pawn at Q5 is attacked once and supported once
+to start with, and can be attacked by three more White units in
+three more moves (1. R-Q1, 2. R(B2)-Q2, 3. B-B2) Black can also
+mobilise three more units for the defence in the same number of
+moves (1. Kt-B4 or K3, 2. B-Kt2, 3. R-Q1). There is,
+consequently, no immediate danger, nor is there anything to fear
+for some time to come, as White has no other piece which could
+attack the pawn for the fifth time.
+
+        ---------------------------------------
+     8 |    |    |    |    | #R | #B | #K |    |
+       |---------------------------------------|
+     7 | #P | #P |    | #R |    |    |#Kt | #P |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    | #P |    |
+       |---------------------------------------|
+     5 |    |    |    | #P |    |    |    |    |
+       |---------------------------------------|
+     4 |    | ^P |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 | ^P |^Kt |    |    |    | ^P | ^B |    |
+       |---------------------------------------|
+     2 |    |    | ^R |    |    |    | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    | ^R |    |    |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 9.
+
+It would be obviously wrong to move the pawn to Q6 after White's
+R-Q1, because White could bring another two pieces to bear on the
+P, the other Rook and the Knight, whilst Black has only one more
+piece available for the defence, namely, his Rook.
+
+The following examples show typical positions, in which simple
+calculation is complicated by side issues.
+
+In Diagram 10, the point of attack, namely, the Black Knight at
+KB3, can be supported by as many Black units as White can bring
+up for the attack, but the defensive efficiency of one of Black's
+pieces is illusory, because it can be taken by a White piece. The
+plan would be as follows: White threatens Black's Knight for the
+third time with Kt-K4, and Black must reply QKt-Q2, because
+covering with R-K3 would cost the "exchange," as will appear from
+a comparison of the value of the pieces concerned. The "exchange"
+is, however, lost for Black on the next move, because
+
+        ---------------------------------------
+     8 | #R | #Kt| #B | #Q | #R |    | #K |    |
+       |---------------------------------------|
+     7 |    | #P | #P |    |    | #P | #B | #P |
+       |---------------------------------------|
+     6 | #P |    |    | #P |    | #Kt| #P |    |
+       |---------------------------------------|
+     5 |    |    |    | ^Kt| #P |    | ^B |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    | ^B |    |    | ^P |    | ^Kt|    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 10
+
+White's further attack on the Knight by Q-B3 forces the Rook to
+defend on K3, where it gets into the diagonal of the Bishop,
+which at present is masked by White's Knight. The sequel would be
+3. QKtxKtch, RxKt (not BxKt on account of BxR winning a whole
+Rook), 4. BxR, and so on.  A similar case is shown in Diagram 11.
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 | #P | #K | #P | #Kt|    |    | #P | #P |
+       |---------------------------------------|
+     6 |    | #P |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    | ^Kt|    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    | ^B |    |    |
+       |---------------------------------------|
+     3 | ^P |    | ^P |    |    | ^P | ^P |    |
+       |---------------------------------------|
+     2 | #B |    |    |    |    |    |    | ^P |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 11
+
+Here, too, there is a flaw in the simple calculation, because the
+defending units are not secure. Beginners should devote special
+attention to this position, which is in practice of frequent
+occurrence.
+
+It can be easily perceived that the Bishop cannot capture the
+pawn at B7 on account of P-QR3. But to take with the Knight would
+also be an error, because Black would then keep chasing away the
+covering Bishop.
+
+1. P-Kt4; 2. B-Q6, K-B3; 3. Kt-K8, B-B2; and wins one of the
+pieces.
+
+Finally, one more example, in which one of the defending pieces
+being pinned makes simple calculation impracticable.
+
+In Diagram 12 it seems at first sight as if Black could play
+KtxP: although White can pin the Knight with R-K1
+
+        ---------------------------------------
+     8 | #R |    | #B |    | #K |    |    | #R |
+       |---------------------------------------|
+     7 | #P | #P |    |    |    | #Kt| #P | #P |
+       |---------------------------------------|
+     6 |    |    | #P | #Kt|    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^P | ^Kt|    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    | ^B |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    |    | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt|    |    |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 12
+
+and then attack it once more with his Knight, Black would appear
+to have sufficient protection available, with his Kt and B. White
+has no time to double Rooks, because if he does so, after his R-
+K2 Black would play the King away from his file and allow the
+Knight to escape.
+
+But White can, by a simple sacrifice, bring the slumbering R at
+R1 into sudden action:
+
+1. ... KtxP; 2 R-K1, B-B4; 3. Kt-B3, Kt-Q3; 4. RxKt, KtxR; 5. R-
+K1, and White wins two pieces for his Rook.
+
+These illustrations will be sufficient to give the beginner an
+understanding of economy of calculation in all kinds of
+combinations. His power of combining will grow speedily on this
+basis, and thrive in the fire of practical experience.  Where an
+opponent is missing, the gap must be filled by reference to such
+books as treat of the science of combination and give examples
+taken from actual play.
+

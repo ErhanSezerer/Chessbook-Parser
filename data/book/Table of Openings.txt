@@ -1,0 +1,86 @@
+TABLE OF OPENINGS
+
+
+
+                 A. KING'S PAWN GAMES
+
+
+
+a. 1. P-K4   P-K4
+   2. P-KB4  PxP
+   2. ...    B-B4
+   2. ...    P-Q4
+   2. P-Q4   PxP    3. QxP
+                    3. Kt-KB3 P-QB4
+                    3. ...    Kt-QB3
+                    3. B-QB4
+                    3. P-QB3  PxP
+                    3. ...    P-Q4
+   2. Kt-KB3 Kt-QB3 3. P-Q4   PxP   4. KtxP
+                                    4. B-QB4
+                                    4. P-B3
+                    3. B-B4   B-B4  4. P-Q3
+                                    4. P-B3
+                    3. ...    Kt-B3
+                    3. Kt-B3  Kt-B3
+                    3. ...    B-Kt5
+                    3. B-Kt5  P-Q3  4. P-Q4
+                    3. ...    Kt-B3 4. Castle P-Q3
+                                    4. ...   KtxP
+                    3. ...    P-QR3 4. B-R4  Kt-B3 5. Castle B-K2
+                                                   5. ...    KtxP
+
+                                    4. BxKt  QPxB  5. KtxP
+                                                   5. P-Q4
+    2. ...    P-Q3  3. P-Q4   QKt-Q2
+    2. Kt-QB3 Kt-KB3 3. P-B4  P-Q4
+
+b.  1. P-K4   P-K3
+    2. P-Q4   P-Q4  3. P-K5
+                    3. Kt-QB3 Kt-KB3 4. P-K5
+                                     4. B-Kt5 B-K2
+                                     4. ...   B-Kt5
+                    3. ...    PxP
+    1. P-K4   P-Q4  2. PxP    QxP
+    1. P-K4   P-QB3 2. P-Q4   P-Q4
+    1. P-K4   P-QB4
+
+
+
+                B. QUEEN'S PAWN GAMES
+
+
+
+a. 1. P-Q4   P-Q4
+   2. P-QB4  PxP
+   2. ...    P-K3   3. KtQB3  KtKB3
+                    3. ...    PQB4    4. PK3
+                                      4. Kt-KB3 Kt-QB3 5. PxQP
+   2. ...    P--K4
+   2. ...    B-B4
+   2. ...    P-QB3
+   2. Kt-KB3 P-K3   3. P-B4   PxP
+                    3. ...    P-QB4
+                    3. ...    Kt-KB3
+   2. ...    P-QB4  3. P-B4   P-K3    4. P-K3
+                                      4. Kt-B3  Kt-QB3
+                    3. P-K3   P-K3    4. B-Q3   Kt-KB3 5. P-QKt3
+                    3. P-B3
+   2. ...    Kt-KB3
+
+b. 1. P-Q4   P-QB4
+   1. P-Q4   Kt-KB3 2. Kt-KB3 P-Q3
+   1. P-Q4   P-KB4
+
+
+
+                  C. IRREGULAR OPENINGS
+
+
+
+   1. P-QB4
+   1. P-KB4  P-Q4
+   1. ...    P-K4
+   1. P-K3   P-Q3
+
+

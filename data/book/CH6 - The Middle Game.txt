@@ -1,0 +1,726 @@
+CHAPTER VI
+
+THE MIDDLE GAME
+
+
+
+GENERAL REMARKS
+
+
+
+HAVING now a fair knowledge of the end-game, we should be in a
+position to appreciate how the middle game should be conducted.
+We must throughout maintain a favourable pawn formation, in view
+of the end-game which might be forced on us by exchanges. On the
+other hand, as soon as we have gained an advantage sufficient to
+secure the victory in the end-game, we must ourselves, by the
+exchange of pieces, try to reduce the position to one of the
+typical elementary cases which we have discussed. Now it will
+invariably be found that beginners are unwilling to make these
+essential exchanges. This is explained by the attraction which
+combinations involving the action of many pieces have for them.
+They assume that exchanges, particularly of the Queens, make the
+games dull. Such ideas only prove that the beginner has not
+grasped the nature of chess, the essence of which is stern logic
+and uncompromising conclusions, and this demands the shortest and
+clearest way leading to a mate. To the strong player, able to
+play logically, logic will always be inseparable from beauty in
+chess.
+
+To play logically means to subordinate all combinations to a
+leading plan of campaign, but there is difficulty in finding the
+latter. An unsound scheme, even if worked out to its logical
+conclusion, can of course be of no value. All the same it is
+better than no plan at all. And in time one gains by experience,
+and develops a sort of instinct for rejecting from the large
+number of possible operations all those which, properly
+countered, cannot bring any advantage.
+
+Beside practical play, which is essential in order to gain this
+instinct, a methodical theoretical instruction is of inestimable
+value, and accelerates the development of the student's mind. Now
+the instruction I wish to give in the THEORY of chess will not
+take the form of an ANALYSIS, brought up right into the middle
+game, of the various openings, tested and found correct in master
+play. Such collections erroneously bear the title of "Theory of
+the Openings," and are, besides, quite useless at this stage,
+since they only embody the results of ANALYSIS.
+
+It is first necessary to ascertain a few leading principles,
+which can be taught in a most simple manner, by the exercise of
+common sense, rather than by applying oneself to the study of
+long-winded analysis. The student will no longer need to discover
+time-worn maxims in the light of his own weary experience, and on
+the other hand, these principles will help him to understand
+analysis, and to keep clearly before his mind's eye the common
+and principal lines of play, of which he might easily lose sight
+in the labyrinth of suggested variations.
+
+I propose to show the application of such principles to master
+play, and this will give us a further opportunity of deeper
+study, both of the rules set out in the first part for conducting
+the opening correctly, and of the end-game principles, which
+should be well considered.
+
+I have made the pawn skeleton with its attendant grouping of
+pieces the main consideration in the study of the opening; now in
+the investigation of the problems of the middle game, I will
+start from the TRANSFORMATION which the pawn skeleton has to
+undergo in the course of further operations.  In my opinion this
+is the best starting-point for the choice of effective manoeuvres
+of the different pieces.
+
+Before we are able to evolve a practical scheme we must have
+under consideration the following important points:  How do we
+know if an attack is likely to succeed? In other words: On what
+point should I concentrate the attack? It should be clear to all
+that it is of no possible use to direct an attack on anything
+that can move away. Yet beginners frequently infringe this
+obvious rule, and I have often witnessed manoeuvres such as these
+(Diagram 90):
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P | #P | #P |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #Kt| #P |    | #Kt|    |    |
+       |---------------------------------------|
+     5 |    |    | #B |    | #P |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^B |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt| ^P |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^B | ^Q |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 90
+
+1. P-QR3, 2. P-QKt4, and then, after the B has retired to his Kt3
+even, 3. R-QKt1, 4. P-QR4, 5. P-R5. Meanwhile Black will have
+played P-QR3, to make a loophole for his B at R2, and what is the
+result? The Black Bishop is as effectual at R2 as at B4, but
+White has advanced his pawns, and weakened them, as they are now
+more liable to attack. Moreover, White has used up five moves to
+achieve his aim, whilst Black only needed three. Therefore Black
+has gained two moves, which he can use for the development of his
+pieces.
+
+Diagram 91 illustrates another mistake frequently made in the
+choice of an objective, and one which can utterly spoil the whole
+game, even in its earliest stage. Black has to
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q | #K | #B | #Kt| #R |
+       |---------------------------------------|
+     7 | #P | #P | #P | #P |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^Q | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt| ^B |    | ^K | ^B |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 91
+
+move, and his game is somewhat hindered by the dominating
+position of the White Queen. The latter prevents the Bishop from
+occupying a desirable square at his QB4, and also makes the
+liberating move P-Q4 impossible. Therefore it would seem
+desirable to drive the Queen away. But this should only be done
+if it is not attended by some further disadvantage.
+
+Now the average player is not particularly fastidious in his
+methods. The Queen irritates him, therefore the Queen must be
+repelled one way or the other. He would probably try P-QB4. The
+result is that the Queen selects another good square, for
+instance at K3 or QR4, but Black has not improved matters, for he
+still can play neither B-B4 nor P-Q4.  On the other hand,
+irredeemable harm has been done, inasmuch as the Black QP now
+remains "backward." The attack on the Queen by P-QB4 must
+consequently be rejected.  Sallies such as these, in which short-
+lived attacks are made by pawns upon pieces, are always of
+doubtful value. They must unquestionably be avoided if they break
+up the pawn skeleton, which is formed in the opening, and confine
+the mobility of the pieces.
+
+Also with regard to manoeuvres of PIECES, intended solely to
+drive away an opposing piece, it is obviously essential that the
+attacking pieces in effecting their purpose should not be made to
+stray too far afield, lest they become out of play.
+
+I shall delay dealing with the features underlying good forms of
+attack, both by pieces and pawns, until I have treated of the
+choice of an objective.
+
+From what we have already expounded, it is clear that the subject
+of an attack should be incapable of evasion. Should it, in the
+course of attack, be desired to prevent a PIECE from being moved,
+that can only be effected by means of a "pin." A PAWN, however,
+can be held in place either by occupying the square immediately
+in front of it, or by controlling the latter with more forces
+than the opponent can bring to bear upon it.
+
+        ---------------------------------------
+     8 |    |    |    | #R |    |    | #K |    |
+       |---------------------------------------|
+     7 |    |    | #Q | #R | #B | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P | #P |    | #P |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^P |    | ^P | ^B |    |    |
+       |---------------------------------------|
+     3 |    | ^P |    | ^R |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P |    |    | ^Q |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    |    | ^R |    |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 92
+
+The last two diagrams exemplify this. If in Diagram 91 Black
+makes the mistake of playing P-QB4 as suggested, the backward QP
+becomes a welcome objective for White's attack. White can keep
+that pawn back by playing P-Q B4 as soon as it threatens to
+advance, after which he would develop quietly, double his Rooks,
+and bring the Q and QB to bear in a concentrated attack on Q6. A
+position not unlike that in Diagram 92 will result ultimately, in
+which Black defends the pawn as many times as it is attacked, but
+in which White can bring up his KP to the attack, as the QP
+cannot move away, whilst Black has no further defensive move at
+his disposal.  Play against a backward pawn nearly always
+develops on these lines, and is even easier when there is no
+defending B of the same colour as the pawn. (See p. 40, and Game
+No. 26.)
+
+Such manoeuvres, in the course of which pieces are pinned and
+attacked, are illustrated in Diagram 90. The most obvious move,
+which initiates an attack and at the same time completes the
+development of the minor pieces, is B-Kt5.  Attacks by means of
+such devices are so frequent and varied that it will be necessary
+to treat them at some length, which I now propose to do. I should
+also add that, with regard to Diagram 90, the student will derive
+lasting benefit from a thorough study of the position, and will
+thus improve his power to judge of the desirability, or
+otherwise, of obtaining open files, diagonals, doubled pawns,
+etc. After B-KKt5, the threat is to attack the Knight a second
+and third time with Kt-Q5, and Q-B3, after moving the KKt away.
+As Black's KKt is only supported twice, and there is no chance of
+bringing up more forces for its defence, Black must undertake
+something to provide against the threatened onslaught.
+
+The most natural plan is to develop the QB at K3, from where it
+can be exchanged for the Knight should Kt-Q5 be played. The
+doubled pawn, which White could force by exchanging the Bishops,
+is in no way detrimental to Black's game. On the contrary, the
+opening of the file for the Rook, with the attendant chance of
+playing P-Q4 supported by the doubled pawn, gives Black the
+advantage.
+
+The doubled pawn which Black obtains after 2. Kt-Q5, BxKt; 3. PxB
+(or 3. BxB), Kt-K2; 4. BxKt, would also be of no help to White.
+The apparent weakness created in Black's game at KB3 and KR3 by
+the disappearance of the KtP does not assist White in this case,
+because the pieces which could take advantage of such a weakness,
+the QB and the Kt at Q5, have been exchanged. There only remains
+the KKt and the Q for an immediate attack, whilst the Black Rook
+will soon get into effective action on the open Knight's file,
+e.g. 5. Q-Q2, K-R1; 6. Q-R6, Kt-Kt3; 7. Kt-R4, KtxKt; 8. QxKt, Q-
+K2, followed by the doubling of the Rooks on the Kt file.
+Considerations of a similar nature would tend to show that 1. B-
+Kt5, Kt-K2; 2. BxKt, PxB is in favour of Black. The White QB,
+which is so effective in taking advantage of weaknesses at
+Black's KB3 and R3, has been exchanged. The Queen's Knight is not
+available for attack on the KBP, as it would be exchanged or else
+driven off in time by P-B3. Compared with the position considered
+above, which occurs after 1. ... B-K3, 2. Kt-Q5, Black has the
+further advantage of maintaining his QB, which makes it possible
+to push the weak KBP on to his fourth, and either exchange it or
+push it still further to B5, a useful and secure position.
+
+Matters would be different were Black to allow his King's wing to
+be broken up without getting rid of White's dangerous pieces by
+exchanges. Let us consider what happens, if Black takes no
+measures against Kt-Q5, but only prevents White's ultimate Q-B3
+by pinning the Knight with B-KKt5. White gains a decisive
+advantage by bringing his Queen into play before Black is able to
+secure himself against the threatened combined attack of Q and B,
+or alternately Q and Kt by K-R1, R-Kt1-Kt3. I will give two
+examples of how the whole game now centres on the attack and
+defence of the points weakened by the disappearance of the KtP,
+and how White pushes home his advantage in the one instance with
+the help of the B, in the other by the co-operation of the Kt.
+
+
+     I. 1. B-KKt5, B-KKt5; 2. Kt-Q5, Kt-Q5; 3. Q-Q2, BxKt?; 4.
+BxKt, PxB; 5. Q-R6, and there is no reply to the threat of KtxPch
+and QxP mate, except through the sacrifice of the Q. Forcing the
+exchange of Knights is of no avail, for after 5. ... Kt-K7ch;  6.
+K-R1, BxPch; 7. KxB, Kt-B5ch; 8. KtxKt, PxKt; 9. K-R1, White
+occupies the Kt file first and wins easily: 9. ... K-R1; 10. R-
+KKt1, R-KKt1; 11. RxR, QxR;  12. R-KKt1 followed by mate or loss
+of the Queen.
+
+     II. 3. Q-Q2, P-B3; 4. KtxKtch, PxKt; 5. B-R4!  BxKt; 6. Q-
+R6, Kt-K7ch; 7. K-R1, BxPch; 8. KxB, Kt-B5ch; 9. K-R1, Kt-Kt3.
+Now Black has succeeded in interrupting the White Queen's action
+on the BP. But it has taken many moves, with the sole result that
+Black's Queen's Knight is better placed. All the other pieces,
+however, occupy the positions they took up in the opening.  The
+Black Knight, moreover, is only supported by the RP until Black
+manages to block the White Bishop's diagonal by P-Q4. Meanwhile
+White has gained a big start, and is ready to occupy the open
+file with his Rooks. The sequel might be: 10. P-Q4!, BxP (if PxP;
+11. P-K5!!, QPxP; 12. R-KKt1, etc.); 11. P-B3, B-Kt3; 12. QR-Q1,
+K-R1; 13. R-KKt1, Q-K2; 14. R-Q3, R-KKt1; 15. R-R3, R-Kt2 (KtxB;
+16. QxRPch!!); 16. R-B3, followed by BxP (B6).
+
+Taking it all in all, we see from the foregoing that the pinning
+of the Black Knight can only be injurious to Black if he does not
+take timely measures to provide against White's Kt-Q5, which
+threatens to concentrate more forces for the attack on KB6 than
+Black is able to mobilise for its defence.
+
+Beginners, after having experienced frequent trouble through
+their inadequate defence of this kind of attack, try to avoid
+their recurrence by making such pinning moves impossible from the
+first and playing P-R3 on whichever side the pin is threatened.
+Apart from the loss of time, on which I remarked at length when
+discussing the opening, such pawn moves have various other
+drawbacks.
+
+With every pawn move it should be considered whether the squares
+protected by the pawn before it has moved may not need the
+support of that pawn at a later stage. This is particularly the
+case with regard to squares in front of the castled King. If one
+of those pawns pushes on, the squares which have lost its
+protection frequently offer an opening for a direct attack by the
+enemy's pieces on the King.
+
+A second consideration is the fact that the advancing pawn itself
+becomes a target for an assault in which the opponent, moving up
+a pawn on the next file, brings his Rooks into play, or in which
+he sacrifices a piece for the advanced pawn and the one that
+protects it, thus robbing the King of the protection he sought to
+obtain in castling.
+
+The following examples will contribute much to the understanding
+of this most important subject, the grasp of which will mean a
+great step forward for the student.
+
+The position in Diagram 93 is from a game v. Scheve-Teichmann
+(Berlin, 1907). White played 1. P-R3 in order to avoid the
+pinning of his Knight through B-Kt5. The move is not unjustified,
+as the Knight is required for the support of the square at Q4.
+The pawn move, however, has the drawbacks enumerated above, and
+White must think of keeping a sufficiency of pieces for the fight
+on the King's wing, in order to prevent Black from utilising the
+weakness thus created for a combined assault by superior forces.
+
+        ---------------------------------------
+     8 | #R |    | #B |    | #K |    | #Kt| #R |
+       |---------------------------------------|
+     7 | #B | #P | #P |    | #Q | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P |    | #Kt| #P |    |    |    |    |
+       |---------------------------------------|
+     5 | ^P |    |    |    | #P |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^B | ^P | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^P |    |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 |    | ^P |    |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt| ^B | ^Q |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 93
+
+In this case White does not take precautionary measures, and
+succumbs in a surprisingly short time.
+
+1. ... Kt-B3; 2. PxP? With this move White opens the diagonal for
+Black's KB for no apparent reason. 2. ... QKtxP; 3. KtxKt?
+Instead of providing for the defence of his King's wing, White
+exchanges one of the King's side pieces, 3. ... QxKt; 4. Kt-Q2,
+BxP! White has provoked this sacrifice by his last two moves. The
+KBP is pinned, and the Q enters by way of her Kt6, the protection
+of which was given up by pushing on the RP. The rest is easy; 5.
+PxB, Q-Kt6ch; 6. K-R1, QxPch; 7. K-Kt1, Kt-Kt5; 8. Kt-B3, Q-
+Kt6ch; 9. K-R1, BxP; 10. resigns.
+
+Diagram 94 shows a position from a game Marshall-Burn  (Ostend,
+1907). Strong in the knowledge that the Black Queen's side pieces
+are not developed, and can only with difficulty be of assistance
+in the defence of the King's side because of their limited
+mobility, White takes advantage of the weakness created by the
+advance of the Black KKt pawn to his third, and initiates an
+immediate assault on the King's stronghold.
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P | #P | #P | #Kt| #P | #P | #B | #P |
+       |---------------------------------------|
+     6 |    |    |    | #P |    | #Kt| #P |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    | ^B |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^B | ^P | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P | ^Kt|    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 94
+
+1. P-KR4, R-K1; 2. P-R5. This forces open the Rook's file. If the
+pawn were still at Kt2, Black would simply let White push on to
+R6 and then reply with P-KKt3.  2. ... KtxP; 3. RxKt, White
+concludes the game in brilliant style. Black's wrong development
+has given a welcome opportunity for sacrificial combinations. Now
+the KB has an open diagonal, the pawn position is broken, and
+White's Q and R have no difficulty in using the Rook's file for a
+deadly attack.  3. ... PxR; 4. BxPch, KxB; 5. Kt-Kt5ch, K-Kt3 (if
+K-Kt1, then 6. QxP, Kt-B3; 7. QxPch, K-R1; 8. Castles, etc.); 6.
+QKt-B3, P-K4; 7. Kt-R4ch, K-B3; 8. Kt-R7ch, K-K2; 9. Kt-B5ch, K-
+K3; 10. KtxBch, K-K2; 11. Kt-B5ch, K-K3; 12. P-Q5ch, KxKt; 13.
+QxPch, K-K5; 14. Castles, followed by P-B3 or R-Q4 mate.
+
+In cases where both sides have already castled on the same wing,
+and the opponent has weakened his position by pushing on one of
+the pawns of that wing, it is seldom advisable to start an attack
+with the advance of one of the pawns in front of the King, as the
+latter's position would be weakened. An attack of this kind is
+only justified if there is a prospect of concentrating with all
+speed a superior force before the opponent has time for a counter
+attack.
+
+The Black position in Diagram 95 illustrates one much favoured by
+"natural" players. Here the advance of the
+
+        ---------------------------------------
+     8 | #R |    |    | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P | #B | #P | #P | #Kt| #P | #B | #P |
+       |---------------------------------------|
+     6 |    | #P | #Kt|    | #P |    | #P |    |
+       |---------------------------------------|
+     5 |    |    |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt| ^B | ^B | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 95
+
+KRP would not be a suitable plan of attack for White as his Rook
+is no longer on the Rook's file, nor could it be brought back in
+time. In this case White must endeavour to take advantage of the
+weaknesses at Black's KB3 and KR3, produced by his move P-KKt3.
+This will be the modus operandi: Q-Q2 followed by B-R6, forcing
+the exchange of Black's valuable KB. After that the Q in
+conjunction with one of the Knights will attempt to force an
+entry at KB6 or KR6, as for instance in the following, the moves
+of which are taken from a game I once watched and took note of as
+being most instructive.
+
+1. Q-Q2, P-Q3; 2. B-KR6, PxP; 3. BxB, KxB; 4. PxP, Q-Q2; 5. Kt-
+K4, Kt-Q4; 6. B-B4, QR-Q1; 7. BxKt, PxB; 8. Kt-B6, Q-K3; 9. Q-
+Kt5, B-B1 (to prevent Kt-Kt4); 10. QR-K1, Q-B4; 11. Q-R4, P-KR3;
+12. Kt-Q4, KtxKt; 13. QxKt, P-B4; 14. Q-Q2, P-Q5; 15. P-KB4, P-
+B5; 16. P-KKt4, Q-K3; 17. P-B5, Q-B3; 18. R-K4, B-Kt2; 19. R-B3!,
+Q-B4; 20. QxPch, KxQ; 21. R-R3ch, followed by R-R7 or Kt-R7 mate.
+
+A somewhat more difficult case is shown in Diagram 96.
+
+        ---------------------------------------
+     8 | #R | #Kt|    |    | #Kt| #R | #K |    |
+       |---------------------------------------|
+     7 |    | #B | #Q |    |    | #P |    | #P |
+       |---------------------------------------|
+     6 | #P |    |    | #P |    | #B | #P |    |
+       |---------------------------------------|
+     5 |    | #P | #P | ^P | #P |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^P |    | ^P |    |
+       |---------------------------------------|
+     3 |    |    | ^P |    | ^B | ^Kt|    | ^P |
+       |---------------------------------------|
+     2 | ^P | ^P | ^B |    |    | ^P |    |    |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q | ^R | ^Kt| ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 96
+
+Here the advance of the White King's side pawns has undeniably
+produced weaknesses in the pawn skeleton, and these would be
+fatal had the Black pieces as much mobility as the White ones.
+But the congestion of Black's pieces on the Queen's side makes
+his defence unwieldy, and White has no difficulty in accumulating
+his forces on the King's side for the final assault. The
+prospects are that White will be able to bring home his attack,
+before Black has a chance of forcing exchanges and of bringing
+about the end-game, which through the weakness of the White pawns
+would probably turn to his advantage. The play (E. Cohn-Ed.
+Lasker match, Berlin, 1909) is instructive, and shows how the
+attack should be conducted in such positions. 1. Kt-Kt3, B-Kt2;
+2. K-R2, P-B3; 3. R-KKt1, Kt-Q2; 4. Kt-R4, K-B2. The
+concentration of the White pieces has become alarming, and
+threatens to be continued by Q-Q2, R-Kt2.  QR-KKt1, and Kt-B5. So
+the Black King decides on flight, but he finds no peace on the Q
+side either, because there his advanced pawns soon allow White to
+make a breach in the Black position.
+
+5. Kt-Kt2, K-K2; 6. Q-K2, Kt-Kt3; 7. KR-KB1, B-B1. It is Black's
+intention to play P-B4 as soon as practicable, and to make an
+attempt at a counter demonstration on the King's side, 8. P-K B4,
+K-Q1? (Black should have kept to his original intention and
+played P-B4); 9. PxP, QPxP; 10. Q-B2, Kt-Q2; 11. P-QR4; B-Kt2;
+12. PxP, PxP; 13. RxR, BxR. Now White has achieved what he set
+out to do. He has opened up avenues of attack on the Queen's
+side, and is ready to utilise the weakness of Black's QBP by
+playing P-Kt4, on which Black must submit to opening the file for
+the White KR or the diagonal for the White QB. In either case
+White brings vastly superior forces to bear on the Black King's
+position, and Black should lose. In this game Black escaped only
+through a mistake on the part of his opponent.
+
+In the foregoing positions it was seen how fatal weaknesses can
+be, which are produced by the premature advance of the pawns in
+front of the King, on whom the opposing pieces can force their
+attack. When the pawns concerned are on the opposite wing to
+their King, the disadvantages of a premature advance are felt in
+a different way. The weakness concerns the pawns themselves and
+not the forces behind them, and is apt to cause the loss of the
+end-game, particularly of Rook end-games. Let us compare the
+positions in Diagrams 97
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P | #P | #P |    |#Kt | #P |    | #P |
+       |---------------------------------------|
+     6 |    |    |    | #P |    | #P |    |    |
+       |---------------------------------------|
+     5 |    | ^B |    |    | #P |    |    |    |
+       |---------------------------------------|
+     4 |    | #B |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    |^Kt | ^P |    |^Kt |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag.  97
+
+and 98. In the one case the chain of Black pawns is broken by the
+absence of K Kt P, in the other of the Q Kt P. The absence of the
+KKt pawn can lead to serious consequences in the middle game,
+because of the weakness of Black's KB3 and KR3 (compare Diagram
+90); it can, however, hardly become awkward in the end-game, as
+the pawns on the B and R files are within the protecting reach of
+their King.
+
+
+        ---------------------------------------
+     8 | #R |    |    | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P |    | #P | #B | #B | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #P | #P |    |#Kt |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |^Kt | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    |^Kt | ^Q |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^B |    |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag.  98
+
+On the other hand, the absence of the Q Kt P is of no consequence
+for the middle game. There is nothing behind it which could
+invite an attack. The QRP and QBP, however, are very weak for the
+end-game, as they are quite out of reach of the King (compare
+Game No. 19). I do not wish to imply that Black should have
+avoided the exchange at his QB3 at all cost; such an exchange has
+always the compensating advantage of opening a file for the
+Rooks, which advantage often means a favourable middle game, as
+will be readily understood. Further, it is often possible to get
+rid of the weak QRP by pushing it on, and eventually compelling
+the exchange of the opposing Kt P, an exchange which can usually
+be enforced if the Rooks have occupied the open Kt file. The pawn
+itself is often useful at B 3, in that it can support the advance
+of P-Q 4 in the centre, should it be desired, or it can, by
+pushing on, be brought to exercise further pressure on the
+opposing Kt P.
+
+The break-up of the pawn position on the Q side can become
+awkward in the end-game and sometimes in the middle-game when the
+pawns can be attacked, and pieces brought to bear on the Queen's
+side without leaving the King's side denuded of forces.
+
+This will be illustrated by the position in Diagram 99.
+
+        ---------------------------------------
+     8 | #R |    | #B |    |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P |    | #P |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    | ^B |    |    |
+       |---------------------------------------|
+     2 | ^P |    | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    |    |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 99
+
+FROM A GAME FR. LAZARD-ED. LASKER (PARIS, 1914)
+
+Here the pawn positions on both sides are broken, and the player
+that occupies the open files first, gets a decisive advantage.
+In this case it is Black's move. We can conclude at once that
+White has played the opening badly. He must have lost two moves,
+for he has still to capture the BP and then, being White, it
+should be his move. This disadvantage, small as it may seem, with
+which White has emerged from the opening, is sufficient to bring
+him into the greatest difficulties. Black, of course, does not
+defend the pawn by B-Kt2 or B-Q2, as this would practically
+reduce the B to a P and, moreover, White, by R-Kt1 or Q1, would
+both attack the B and obtain an open file. Instead of that, Black
+utilises the two moves, which he has, as it were, as a gift in an
+otherwise equalised position, to bring both Rooks on the Kt file.
+This policy allows Black to occupy the seventh or eighth rank at
+will, and to attack the White pawns from the flank or rear,
+according to circumstances. This menace hampers the radius of
+action of the White pieces, as they must always be ready for the
+defence of the threatened pawns, and this gives Black by far the
+superior game.
+
+The play was continued as follows: 1. ... R-Kt1; 2. BxP, R-Kt7;
+3. B-K4, B-K3; 4. P-QR3, KR-Kt1. The Knight's file is now
+definitely in Black's hands. White could occupy the Queen's file,
+but the Black B at K3, which prevents the entry of the Rooks at
+Q7, makes the operation aimless.  Therefore White is condemned to
+inactivity. On the contrary, Black's line of action is clear. His
+entry on the seventh can only achieve something if White's QBP
+can be deprived of its support. To do this Black has only to play
+P-QB4-B5 and P-KB4. This, of course, weakens Black's KB, and the
+White Rooks might obtain an entry on the K file. Therefore Black
+will effect a timely exchange of one of his Rooks, after which
+his King alone will hold the K file. These considerations make
+the following moves clear: 5. KR-K1, P-QB4; 6. P-KR3, a further
+awkward necessity in positions of this kind. Before the Rook can
+venture out, a loophole must be provided for the King.
+
+6. ... P-B5; 7. R-K3, R-Kt8ch; 8. RxR, RxRch; 9. K-R2, P-B4; 10.
+B-B3, K-B2; 11. B-K2 (threatening R-QB3), R-Kt2; 12. R-QB3, K-B3
+(now BxP is not feasible on account of R-QB2); 13. P-B4. White
+wishes to keep the Black King from his Q5 but cannot do so
+permanently. Black, however, can occupy the Q file with his Rook,
+and confine the White King to his wing. 13. ... R-Q2; 14. K-Kt3)
+R-Q5; 15. K-B3, K-K2; 16. R-K3, K-Q3; 17. K-Kt3, R-Q7; 18. P-B3,
+B-B2. R-R7 would be a mistake on account of RxBch, but the QRP
+cannot escape. 19. P-QR4, P-Kt3; 20. B-B3, R-R7; 21. B-Q1, B-Q4;
+22. R-K2, R-R8; 23. R-Q2, R-R6; 24. R-QB2, RxRP. Now at last
+Black has obtained material gain, which was made possible by his
+command of the open Kt file. To convert it into a win by queening
+the extra pawn is only a matter of time.
+
+We have now seen how the possession of open files reacts on the
+mobility of the opposing forces, forever increasing their
+difficulties until the positional advantage is converted into
+material gain. We shall meet with cases later on in which the
+greater mobility of minor pieces achieves the same result and
+find more and more proofs of the truth of the main general
+principles which I introduced at the outset.
+
+Let us now recapitulate the chief points touched upon in the
+course of our deliberations:
+
+     1. Generally speaking, attacks should only be directed to
+objects which cannot be moved away.
+
+     2. If in particular cases the attack is aimed at driving off
+an opposing piece from an especially favourable post that attack
+is unwise, if it involves the weakening the pawn position, or if
+pieces have to take up inferior positions in order to effect
+their purpose.
+
+     3. Pawn moves always create weaknesses, either by leaving
+other unsupported pawns behind, or by giving opposing pieces
+access to squares formerly guarded by them, and this more
+specially so in front of the castled King.
+
+     4. Attacks which depend on pawn moves are only justified if
+overwhelming forces can be accumulated in support, as the
+advanced pawns might become the object of a counter attack.
+
+     5. As pawn moves have very generally some drawbacks, the
+middle game is the pieces' own hunting ground.  As in the
+opening, the first consideration of sound play in the middle game
+is to make only such moves as do not reduce the mobility of the
+pieces.
+
+As illustrative of such manoeuvres I shall now give examples from
+actual master play. In my annotations of these games I have tried
+to keep before the student's mind constantly the main ideas
+underlying the different combinations which spring from general
+strategical principles. I thus avoid burdening his memory with a
+mass of detail, and bring into prominence the basic principle of
+each line of play, thereby developing his capacity for conducting
+a middle game, even after an unusual opening.
+
+I have fixed mainly upon such games as are illustrative of the
+openings treated in the first part of this book. In most cases
+the first moves will, therefore, not need any special remarks.
+The end-games, being typical examples, will only need reference
+to the chapters in which they have been respectively dealt with.
+

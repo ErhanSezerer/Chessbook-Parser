@@ -1,0 +1,159 @@
+CHAPTER III
+
+GENERAL PRINCIPLES OF CHESS STRATEGY
+
+
+
+In bringing the teachings of this book under the collective
+heading "Chess Strategy," it was not in any way my intention to
+draw anything like an exact parallel between the manoeuvres on
+the chess-board and military operations in actual warfare. In
+trying to seek such analogies there is great danger of being led
+astray, and little likelihood of gaining knowledge that might be
+of use in practical play. Plain common-sense will give us all we
+need, without our being influenced by those tactical and
+strategical considerations that have been found useful in war.
+
+The following definition may not be out of place: Strategy sets
+down the whole of the problems which must be solved in war, in
+order to attain the ultimate result aimed at; tactics solve such
+problems in various ways, and according to the conditions
+prevailing in the particular case. Sound strategy, when setting
+the task, must never lose sight of tactical practicability, and
+only a thorough knowledge of tactical resources makes correct
+strategy possible.
+
+Now we shall not under any circumstances, as unfortunately even
+great chess masters have done, seek in outward similarities
+justification for transferring to chess the teachings of the
+strategy and tactics of war. It sounds pretty enough to say:
+Chess is a game of war--the various pieces represent the various
+kinds of forces: the pawns represent the infantry, the Knights
+take the place of cavalry, the Rooks do the work of heavy
+artillery, sweeping broad lines; the different ways in which the
+pieces move find a parallel in the topography of the theatre of
+war, in that the various battle-fields are more or less easy of
+access. But it is quite unjustifiable to assign to the Knights
+the functions of scouts, and to say that Rooks should stay in the
+background, as heavy artillery, and so on. Such pronouncements
+would not have the slightest practical value.  What we take from
+the science of warfare is merely the definition. In each game the
+strategy of chess should set us the tasks which must be
+accomplished (in order to mate the opponent's King), and tactics
+point the way in which it is possible to solve such problems.
+Correct chess strategy will only set such tasks as are tactically
+possible, and, if we wish to expound the principles of chess
+strategy, we cannot exclude chess tactics from the field of our
+observations. If here and there the results of our deliberations
+bear some analogy to actual warfare, we may certainly give way to
+a kind of aesthetic satisfaction in that our own occupation has
+some parallel in real life, but we must never fashion our
+principles in accordance with such fortuitous circumstances.
+
+Having surveyed the problems we have to solve, we can now plunge
+into our subject.
+
+In the first chapter, when considering special cases in
+elementary combinations, we have already noticed the important
+part played in each skirmish by the balance between the attacking
+and defending units. Speaking quite generally, common-sense will
+tell us that, in all operations on the chess-board, the main
+consideration for the defence will be to maintain that balance,
+and that there is only justification for an attack when it is
+possible to concentrate more forces on the strategic point than
+can be mustered by the defence. However, one very important point
+must not be neglected, though I did not touch upon it when
+discussing elementary combinations for fear of complicating
+matters for beginners: the balance between the contending forces
+is by no means established by their numerical equality. A
+paramount factor is the mobility of such forces, and as soon as
+it is no longer one of the elementary cases of capture and
+recapture described previously, this factor must be taken into
+account in order to decide, on a general survey, whether there is
+a sufficient defence to an impending attack, or whether one's own
+intended attack is likely to prevail. That mobility is the first
+and foremost consideration should be self-evident, since the
+relative value of the pieces can only make itself felt by their
+greater or lesser mobility.
+
+Except in certain positions, which are brought about by some
+particular array of the pieces, the intrinsic value of a Rook is
+greater than that of a Bishop, because it can command all the
+squares on the board, whilst a Bishop is tied to its own colour;
+Knight and Bishop are considered equivalent, because the Knight's
+advantage in being able to act on all the squares of either
+colour is balanced by the fact that the Bishop can sweep long
+diagonals. Two Bishops are, generally speaking, of greater value
+than two Knights, because together they also act on all the
+squares, and their command of long diagonals is a clear
+advantage. The whole of this valuation, however, comes to nought
+when the pieces are hindered in their mobility by the peculiarity
+of any particular position.
+
+We will consider one instance from end-game play, and one from
+the openings.
+
+In Diagram 13, White derives no advantage from being
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    | #K |    |
+       |---------------------------------------|
+     6 |    | #P |    |    |    | #P |    |    |
+       |---------------------------------------|
+     5 | #P |    | #P |    | #P | ^P | #P |    |
+       |---------------------------------------|
+     4 | ^P |    | ^P | #Kt| ^P |    |    |    |
+       |---------------------------------------|
+     3 |    | ^P |    | ^R |    |    | ^P | ^K |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 13
+
+the exchange to the good, for the Rook has no file which could be
+used to break into the Black camp.
+
+In Diagram 14, the numerical equality of forces will not save
+Black, because bad development reduces the mobility of his pieces
+to such an extent that he has no resources with which he can
+parry the impending attack.
+
+        ---------------------------------------
+     8 |    |    | #K | #R |    | #B |    | #R |
+       |---------------------------------------|
+     7 |    | #B |    |    | #Q | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P | #P |    | #P |    |    | #Kt|    |
+       |---------------------------------------|
+     5 |    |    | #P | ^P | #P |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^P |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    | ^P | ^Kt|    | ^B | ^Kt| ^P |    |
+       |---------------------------------------|
+     2 | ^P |    |    | ^Q |    | ^P | ^K | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    |    | ^R |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 14
+
+White will assail the Black King's position on the Queen side,
+and Black is unable to concentrate his forces quickly enough for
+the defence of the jeopardised entrenchments. Let us therefore
+bear in mind that the mobility of the pieces is the deciding
+factor of their efficiency, and that mobility is the highest
+criterion by which to judge the merits (or demerits)  of their
+operations.
+
+We will now consider this principle in its application to the
+three stages of play, namely, the opening, the middle-game, and
+the ending.
+

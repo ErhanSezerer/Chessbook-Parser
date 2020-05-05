@@ -1,0 +1,1694 @@
+CHAPTER V
+
+THE END-GAME
+
+
+
+JUST as it is difficult to state the exact point at which an
+opening ends, so is it equally difficult to say where the end-
+game may be said to commence. One of the main characteristics of
+end-games is the active part taken by the King.  Clearly the King
+cannot venture out into the field of operations until there has
+been an exchange of the majority of the pieces, so that there can
+be no danger of his being mated. As soon as a player has attained
+some advantage in material which ensures the victory in the end-
+game, he will try to bring about the end-game by exchanging
+pieces, for there the lines on which to push home his advantage
+are clearly set out.
+
+It is first necessary to know what surplus of forces is the
+minimum required in order to force a mate. The positions in which
+the mate can be forced may be shown by a few typical examples.
+But I shall lay stress mainly on one point. That is the ability
+to judge whether an end-game which could be brought about by
+exchanges is won or not; in other words, whether it can be
+reduced to one of the typical positions referred to above.
+
+It is obvious that the end-game is the particular demesne of pawn
+strategy. Nearly always one or more pawns survive the exchange of
+pieces, and the knowledge of the end-game will be invaluable for
+gauging the consequences of pawn moves in the course of the
+middle game. The latter represents probably the most difficult
+aspect of the strategy of chess.
+
+In order to enable beginners to grasp the following chapters, I
+must again point out a few elementary considerations.
+
+Simple end-games, that is, end-games without pawns, are
+comparatively easy to understand. Let us first consider the case
+ of a King denuded of all his troops. In order to force the mate
+it is necessary to obtain command of four squares, namely, those
+four squares which he controls after he has been driven into a
+corner. Supposing the Black King has been driven to QR1, the
+White King can prevent him from reaching two squares of different
+colour, namely, QR2 and QKt2. Therefore it is necessary for White
+still to have such forces as can command two more squares of
+different colour, namely, QR1 and QKt1. As can readily be seen,
+it will be essential to have at least the Queen or a Rook or two
+Bishops, or a Knight and Bishop, or two Knights. [Footnote: How
+the King can be driven into a corner will be shown subsequently.]
+
+We shall see that in the latter case it is impossible to drive
+the King into a corner without bringing about a stalemate.  The
+mates by a Queen or Rook are so simple that I only give an
+example of each for the sake of completeness.
+
+        Position 1.--White: K at QR1, Q-KR1
+                  Black: K at K4
+
+     1. K-Kt2, K-Q5; 2. K-Kt3, K-K4; 3. K-B4, K-Q3; 4. Q-K4, K-
+Q2; 5. K-B5, K-B1; 6. K-B6, K-Kt1; 7. Q-QR4, or Kt4ch, or K7, or
+R7 and mate next move.
+
+       Position 2.--White: K at QKt3, RKR2
+             Black: K at K4
+
+     1. K-B4, K-Q3; 2. R-K2, K-B3; 3. R-K6ch, K-Q2; 4. K-Q5, K-
+B2; 5. K-B5, K-Q2; 6. R-K1, K-B2; 7. R-K7ch, K-Q1; 8. K-Q6, K-B1;
+9. K-B6, K-Kt1; 10. R-K1, K-R7; 11. R-K8, K-R3; 12. R-R8 mate.
+
+     Position 3.--White: K at QRsq, B at KKtsq, BatKKt2
+                Black: K at KRsq
+
+1.	K-Kt2, K-Kt2; 2. K-B3, K-B3; 3. K-Q4, K-K3; 4. B-R2, K-
+B3; 5. K-Q5, K-B4; 6. B-K5, K-Kt4; 7. K-K6, K-Kt5; 8. B-
+QR8, K-Kt4; 9. B-B3, K-Kt3; 10. B-KB6, K-R3; 11. K-B7, K-
+R2; 12. B-Kt5, K-R1; 13. B-Q1, K-R2; 14.  B-B2ch, K-R1;
+B-B6 mate.
+
+It is more difficult to mate with KNIGHT AND BISHOP. It is only
+possible to mate on a corner square commanded by the Bishop, as
+the following argument shows clearly. A mating position in the
+corner which the Bishop does not command would have to be of the
+type set out in Diagram 42.  Here the Bishop plays on White
+squares, and the Knight in order to checkmate must move on to a
+White square; in other words, he must come from a Black one.
+Therefore, when the Bishop checked on the previous move and drove
+the King away, the King had the option of two black squares, and
+had no need to go into the corner one. He is only mated in
+consequence of a wrong move.
+
+        ---------------------------------------
+     8 |    |    |    |    |    | ^K |    | #K |
+       |---------------------------------------|
+     7 |    |    |    |    |    | ^Kt|    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    | ^B |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag.  42
+
+  As stated above, however, it is possible in all cases to mate
+in the corner square which is of the same colour as the Bishop.
+The King is driven into the corner in this way:  the Knight cuts
+him off such squares as the Bishop does not command. Diagram 43
+will serve as an illustration.
+
+1. K-Kt2, K-Kt2; 2. K-B3, K-B3; 3. K-Q4, K-K3; 4. Kt-Kt3, K-B3;
+5. B-B3, K-Kt4; 6. K-K5, K-Kt3; 7. Kt-K4, K-Kt2; 8. K-B5, K-R1;
+9. K-B6, K-Kt1; 10. Kt-Kt5, K-R1; 11. Kt-B7ch, K-Kt1; 12. B-K4,
+K-B1; 13. B-R7, K-K1; 14. Kt-K5, K-Q1; 15. Kt-B4, K-B2; 16. B-K4,
+K-Q2; 17. K-B7, K-B2; 18. K-K7, K-B1; 19. K-Q6, K-Q1; 20. B-Kt6,
+K-B1; 21. Kt-R5, K-Q1; 22. Kt-Kt7ch, K-B1; 23. K-B6, K-Kt1; 24.
+K-Kt6, K-B1; 25. B-B5ch, K-Kt1; 26. Kt-B5, K-R1; 27. B-K6, K-Kt1;
+28. Kt-R6ch, K-R1; 29. B-Q5 mate.
+
+        ---------------------------------------
+     8 | ^B |    |    |    |    |    |    | #K |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 | #K |    |    |    |    |    |    | ^Kt|
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 43.
+
+It is impossible to force a mate with the KING AND TWO KNIGHTS.
+On the same grounds as given with respect to Diagram 42, the mate
+can only be attained through the opponent making a bad move. But
+a mate can be forced if the weaker side has a spare move which
+prevents the stalemate, e.g. Diagram 44.
+
+        ---------------------------------------
+     8 |    |    | #K |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    | #P |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    | ^Kt|    |    |
+       |---------------------------------------|
+     5 |    | ^K |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    | ^Kt|    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag.  44
+
+1. Kt(K3)-Q5, K-Kt2; 2. K-B5, K-R3; 3. K-Kt4, K-Kt2; 4. K-Kt5, K-
+R2; 5. Kt-B7, K-Kt2; 6. Kt(B7)-K8, K-R2; 7. Kt-Q6, K-Kt1; 8. K-
+Kt6, K-R1; 9. Kt-Q7, P-B4; 10. Kt-Kt5, P-B5; 11. Kt-B7 mate.
+
+Having decided as to the smallest amount of material advantage
+with which it is possible to force a mate, we will now turn our
+attention to simple game endings (still without pawns). To judge
+such endings correctly, it will only be necessary to find out
+whether it is possible to obtain the minimum advantage mentioned.
+It is sufficient to discuss cases in which a piece on the one
+side plays against a stronger one on the other, because in
+endings where several pieces are left on either side, fortuitous
+circumstances are generally the deciding factors, and it would be
+impossible to characterise and classify positions of that kind,
+by giving typical illustrations.  Besides, they are reduced
+sooner or later by exchanges to such end-games as have been
+treated already, or are going to be shown now.
+
+The Queen wins against any other piece; the Rook alone may give
+trouble. In Diagram 45 we illustrate a
+
+        ---------------------------------------
+     8 |    | #K |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    | #R |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    | ^K |    |    |    |    |    |
+       |---------------------------------------|
+     5 | ^Q |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag.  45
+
+position which is one of the most favourable to the weaker side.
+
+1. Q-R6 leads to nothing, as R-B2ch follows, and after 2. K-Kt6
+Black forces a stalemate with R-B3ch.
+
+It is necessary for White to gain a move in this position; in
+other words, White must try to transfer to the other side the
+onus of having to move. If then the Rook moves away from the
+King, it gets lost after a few checks, or if Black's King plays
+to B1, the Rook is equally lost through Q-R6.
+
+White plays therefore: 1. Q-K5ch, K-R1; 2. Q-R1ch, K-Kt1; 3. Q-
+R5, and wins. For example, 3. ... R-B2; 4. Q-K5ch, K-R2; 5. Q-
+K3ch, K-R1; 6. Q-K8ch, and so on.
+
+The Rook can win against a minor piece in exceptional cases only.
+In endings of ROOK AGAINST BISHOP the weaker King must take
+refuge in a corner square of different colour from that of his
+Bishop. For instance, Diagram 46:
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    | #K |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    | ^K |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    | ^R |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    | #B |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 46.
+
+1. R-Q5, B-B5 (or R2); 2. R-Q8ch, B-Kt1, and Black is stalemate
+unless the Rook leaves the eighth Rank.  Any outside square which
+is not of the same colour as that of the Bishop is dangerous for
+the King. Imagine the pieces in Diagram 46 shifted two squares
+towards the centre of the board, as in Diagram 47, and White wins
+with
+
+          1. R-QKt5          B-R5
+          2. R-Kt8ch         B-K1
+          3. R-R8
+
+The Bishop is lost, as it is Black's move.
+
+In endings of ROOK AGAINST KNIGHT, the weaker side loses, where
+the Knight is cut off from his King.
+
+For instance, in Diagram 48, 1. R-Q5! In this "oblique
+opposition" the Rook takes four of the Knight's squares:  1. ...
+Kt-K8; 2. K-B5, Kt-B7; 3. K-K4, Kt-R6 (Kt-Kt5?; 4. R-Kt5ch! wins
+the Knight). In this ending there is always a fatal check at some
+point, and the position in the
+
+        ---------------------------------------
+     8 |    |    |    |    |    | #K |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    | ^K |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    | ^R |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    | #B |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 47
+
+diagram is not in any way a chance win. 4. K-Q3, K-B2; 5. R-QR5,
+Kt-Kt8; 6. R-R1, and wins.
+
+        ---------------------------------------
+     8 |    | #K |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    | ^K |    |
+       |---------------------------------------|
+     5 |    |    | ^R |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    | #Kt|    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 48
+
+As soon as the Knight can obtain the King's support the game is
+drawn even when the King is already forced on to the edge of the
+board.
+
+          Position--White: K at K6, R at K5
+                    Black: K at K1, Kt at QR2
+
+1. R-QB5, K-Q1; 2. K-Q6, Kt-B1ch; 3. K-B6, Kt-K2ch, draw. In this
+case the King must avoid the corners, as the Knight would be
+bereft of his efficiency.
+
+          Position--White: K at KR6, R at KR4
+                    Black: K at KR1, Kt at K2
+
+1. R-K4, Kt-Kt1ch; 2. K-Kt6 and wins.
+
+We come now to the more interesting part of end-game play,
+namely, PAWN ENDINGS. The best course will be first to study how
+to turn a material superiority in pawns to decisive advantage,
+after which we shall note particular positions, in which a win is
+possible with an equality or even an inferiority in pawns.
+
+The ending of KING AND PAWN AGAINST KING is one of the simplest
+albeit one of the most important of elementary cases.  The
+stronger side will evidently try to queen the pawn. But generally
+this is not possible if the adverse King has command of the
+queening square. One important condition, though, must be
+complied with: the weaker King must move into  "opposition," and
+"opposition" is one of the characteristic and deciding factors in
+most pawn endings. It is absolutely necessary for the learner to
+understand fully the meaning of the term "opposition," and its
+value in elementary cases This knowledge is of far reaching
+influence in end-games.
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    | #K |    |    |
+       |---------------------------------------|
+     5 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^K |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 49
+
+In Diagram 49 White seeks to queen his pawn.
+
+    1. K-Q4, K-K2; 2. K-K5
+
+With this move White assumes the opposition. That is, he moves
+into the same rank or file, separated by one square only, so
+that both Kings stand on squares of the same colour.  White has
+moved last, it is Black's turn to move; it is said in this case
+that "White has the opposition." We shall soon see that Black is
+only able to draw the game, if he succeeds in assuming the
+opposition himself (which means that, having the move, he should
+step into opposition). 2. ... K-Q 2; 3 P-Q6 (Diagram 50).
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    | #K |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    | ^K |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 50
+
+I propose now to recapitulate.
+
+This is the critical moment, namely, when the pawn reaches the
+sixth rank. If now Black plays K-K1 he is lost, for White playing
+K-K6 has the opposition. After 4. ... K-Q1, 5. P-Q7, Black is
+forced to allow the White King to move to K7, covering the
+queening square; 5. ... K-B2, 6. K-K7, any; 7. P queens. But
+Black has a draw in the position of Diagram 50, by playing 3. ...
+K-Q1!! (not K1).  Now after 4. K-K6 he keeps the opposition
+himself with K-K1; and after 5. P-Q7ch, K-Q1; 6. K-Q6, he is
+stalemated, or else wins the pawn if White plays differently on
+his sixth move. The King draws against King and pawn if he
+commands the queening square, and if he can retain the opposition
+on the first rank as soon as the pawn moves into his sixth.
+
+It is of the utmost importance that the pawn should be at his
+sixth; if the pawn is still further back, the opposition on the
+first rank is of no avail.
+
+Diagram 51 will serve as an example. Having the move,
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    | #K |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    | ^K |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 51
+
+White would only draw with P-B5, because Black's K-B2 wins the
+pawn.
+
+But White wins as follows: 1. K-Kt6, K-B1; 2. K-B6, K-K1; 3. K-
+K6, K-Q1; 4. K-Q6, K-B sq:
+
+        ---------------------------------------
+     8 |    |    |    | #K |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    | ^K |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 52.
+
+5. P-B5, K-Q sq. We see: Black has just assumed the opposition,
+but the pawn has not yet crossed to his sixth square, and White,
+by playing P-B6, again forces Black to give up the opposition. It
+might be more clear to put it in this way: with P-B6 White wins
+the opposition, in that he brings about a position with Black to
+move. Therefore the game is won for White.  Since the opposition
+on the outside rank is of no avail, when the pawn has not yet
+played to his sixth square, the weaker side must try to keep away
+the opposing King from the sixth rank until the pawn has reached
+that rank. This is possible in positions such as that in Diagram
+53, where the stronger
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    | #K |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^K |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 53
+
+King is not more than one rank ahead of his pawn, and the weaker
+King can assume the opposition. In the position in Diagram 53
+Black plays K-Q4 and maintains the opposition until the pawn
+moves, after which a typical position, similar to the one treated
+in connection with Diagram 50 is brought about.
+
+If White has the move, however, he wins easily by 1. K-B4, thus:
+
+          1. ...                K-Q3
+          2. K-Kt5              K-B2
+          3. K-B5               K-Kt2
+          4. K-Q6               K-B1
+          5. K-B6
+
+and there is opposition on the eighth rank whilst the pawn has
+not reached the sixth.
+
+If the King is more than one rank ahead of his pawn, as in
+Diagram 54, the end-game can always be won, for if Black
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    | #K |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^K |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 54
+
+takes the opposition with K-Q3, White deprives him of it again,
+winning a move by P-B3, and the position is similar to that in
+Diagram 53, with White to move.
+
+          1. ...               K-Q3
+          2. P-B3              K-B3
+          3. K-B4              and wins.
+
+This settles all typical end-games of King and pawn against King.
+There is, however, one exception to the rules set out, namely,
+when a ROOK'S PAWN is concerned. Here the isolated King always
+succeeds in drawing if he can reach the corner where the pawn has
+to queen, for he cannot be driven out again. The Rook's pawn
+affords another opportunity for the weaker side to draw. Diagram
+55 will illustrate this, and similar positions are of frequent
+occurrence in practice.  Here Black draws with 1. ... K-B5. As he
+threatens to capture the pawn, White must play 2. P-R4. Then
+after the reply K-B4, White is still unable to cut the opponent
+off from the corner with K-Kt7, as the loss of the pawn is still
+threatened through K-Kt5. And after 3. P-R5 Black attains the
+position which is typical for this end-game, namely the
+opposition against the King on the Rook's file. The latter cannot
+escape without giving up the contested corner, and the game is
+drawn. 3. ... K-B3; 4. K-R7, K-B2; 5. K-R8, K-B1; 6. P-R6, K-B2;
+7. P-R7, K-B1: and White is stalemated.
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 | ^K |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    | #K |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 55
+
+End-games with a majority of one pawn, when both sides still have
+pawns, are much more simple to manipulate.
+
+Such games result in positions of which Diagram 56 is a
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    | #P |    |    | #K |    |    |
+       |---------------------------------------|
+     5 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    | ^P |    |
+       |---------------------------------------|
+     3 |    |    |    |    | ^K |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 56
+
+typical instance. Here White does not even need to Queen his
+passed pawn. The mere threat forces the win. For the pawn at Kt4
+reduces the mobility of the Black King, in so far as the latter
+must at all times be ready to reach the queening square in as few
+moves as the pawn, or else the pawn would queen unmolested. The
+White King can therefore capture the opposing Bishop's pawn in
+peace and then queen his own.
+
+1. K-K4, K-K3; 2. P-Kt5, K-K2; 3. K-K5, K-B2; 4. K-Q6, and so on;
+or 1. ... K-Kt4 KxP; 3. K-Q6, K-B4; 4. KxP, K-K3; 5. K-Kt7, and
+so on.
+
+Such positions as Diagram 56 are also reached when there are
+several pawns on each wing. The stronger side exchanges pawns on
+the wing where there is a majority until the extra pawn is
+passed.
+
+The winning process is not quite so simple when all the pawns are
+on the same wing, because exchanges are of no use unless the King
+can assume the opposition in front of the last remaining pawn
+(compare notes to Diagram 53).
+
+In Diagram 57, for instance, White must not play P-B4.  Therefore
+he can only win by gaining the Knight's Pawn,
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    | #K |    |    |    |    |
+       |---------------------------------------|
+     5 |    | #P |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    | ^P |    | ^K |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 57
+
+that is, by bringing his King to B5. This he achieves by forcing
+the Black King to relinquish the opposition with 1. P-B3.
+
+1. ... K-B3; 2. K-K5, K-Kt2; 3. K-Q6, K-Kt3; 4. K-Q5, K-Kt2; 5.
+K-B5, K-R3; 6. K-B6, and wins, as Black must abandon the pawn.
+
+This position, being of frequent occurrence, is most important,
+and I recommend it as a valuable study in the use of the
+opposition.
+
+Before I discuss positions of greater complexity, in which the
+only way to win is by sacrificing the extra pawn, I shall treat
+of end-games in which positional advantages ensure the victory
+although the pawns are equal. Here we shall find simple cases in
+which pawn manoeuvres bring about the win, and more intricate
+ones in which King moves are the deciding factor.
+
+Of the former the most important type is the end-game with the
+"distant passed pawn." A typical example is the position in
+Diagram 58, in which Black wins.
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    | #K |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    | #P |
+       |---------------------------------------|
+     6 | #P |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    | #P |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    | ^P |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 | ^P |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    | ^P |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    | ^K |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 58
+
+The King's moves are outlined by the necessity of capturing the
+opposing passed pawn, after which the Black King is two files
+nearer the battle-field (the Queen's side), so that the White
+pawns must fall.
+
+1. K-Kt2, K-Kt2; 2. K-Kt3, K-B3; 3. K-Kt4, K-K4; 4. P-B4ch, K-B3;
+5. K-Kt3, P-R4; 6. K-R4, K-B4; 7. KxP, KxP; 8. K-Kt6, K-K4, and
+so on.
+
+For similar reasons the position in Diagram 59 is lost for Black.
+White obtains a passed pawn on the opposite wing to that of the
+King. He forces the Black King to abandon his King's side pawns,
+and these are lost. I give the moves in full, because this is
+another important example characteristic of the ever recurring
+necessity of applying our arithmetical rule. By simply
+enumerating the moves necessary for either player to queen his
+pawn--SEPARATELY for White and Black--we can see the result of
+our intended manoeuvres, however far ahead we have to extend our
+calculations.
+
+        1. P-R4, K-K3; 2. P-R5, PxP; 3. PxP, K-Q3
+
+Now the following calculations show that Black is lost.  White
+needs ten moves in order to queen on the King's side, namely,
+five to capture the Black King's side pawns (K-K4, B5, Kt6, R6,
+Kt5), one to free the way for his pawn, and four moves with the
+pawn. After ten moves, Black only
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    | #P | #P |    |    | #K |    | #P |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    | #P |    |
+       |---------------------------------------|
+     4 |    | ^P | ^P |    |    |    | ^P |    |
+       |---------------------------------------|
+     3 | ^P |    |    |    |    | ^K |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 59
+
+gets his pawn to B6. He requires six moves to capture the White
+Queen's side pawns, one to make room for his pawn at B3, and
+after three moves the pawn only gets to B6. White then wins by
+means of many checks, forcing the Black King to block the way of
+his own pawn, thus gaining time for his King to approach. As we
+shall see later on (p. 97), if the pawn had already reached B7,
+whilst under protection by his K, the game would be drawn.
+
+It is necessary to make it a rule to examine positions in which
+each side has a passed pawn, by counting the moves in the way
+first shown. It is just because end-games can be calculated to a
+nicety, there being no moves of which the consequences cannot be
+foreseen, that we note in contemporary master play a tendency to
+simplify the middle-game by exchanging pieces, as soon as there
+is an infinitesimal advantage in the pawn position (compare the
+game Charousek-Heinrichsen, p. 108).
+
+We will now turn our attention to positions in which the pawns
+opposed on each wing are of equal number and no passed pawn can
+be forced through. Everything depends on the relative position of
+the Kings. The deciding factor in valuing the King's position is
+whether pawn moves are possible, or whether they are already
+entirely or nearly exhausted, so that only manoeuvres by the King
+are possible. The following illustrations make the position
+clear. We shall see that the importance of getting the opposition
+is paramount.  Diagram 60 shows a simple instance in which there
+are no
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    | #K |    |    |    |
+       |---------------------------------------|
+     5 |    |    | #P |    |    |    | #P |    |
+       |---------------------------------------|
+     4 |    |    | ^P |    |    |    | ^P |    |
+       |---------------------------------------|
+     3 |    |    |    |    | ^K |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 60
+
+more pawn moves. Whoever has the move wins by assuming the
+opposition. The opposing King must then give the way free to one
+of the pawns.
+
+The state of affairs in Diagram 61 is similar to that in Diagram
+60. Having the move, White plays into opposition and forces his
+way to Q5, after which Black's Bishop's pawn is lost.
+
+1. K-K4, K-Q3; 2. K-B5, K-Q2; 3. K-K5, K-B3; 4. K-K6, K-B2; 5. K-
+Q5, K-Kt3; 6. K-Q6, and so on (compare Diagram 57). If Black has
+the move he can only draw, because the White Bishop's pawn is
+covered even though Black gains the square at Q5.
+
+1. ... K-K4; 2. K-Q3, K-B5; 3. K-Q2!! and whatever Black plays
+White wins the opposition, so that the Black King's ingress is
+stopped; 2. K-K2 loses the game because of 3. ... K-K5; 4. K-Q2,
+K-Q5; 5. K-B2, K-K6; 6. K-B1, K-Q6; 7. K-Kt2, K-Q7; 8. K-Kt1, K-
+B6; 9. K-R2, K-B7, and wins.
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    | #K |    |    |    |
+       |---------------------------------------|
+     5 |    |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    | #P | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    | ^P |    |    | ^K |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 61
+
+I shall take this opportunity of explaining what is called
+"distant opposition." In Diagram 62, White with the move wins by
+1. K-K2, thus assuming "distant opposition"  (squares of the same
+colour!!). If Black now enters his second rank, White immediately
+plays into opposition on his third rank, e.g. 1. ... K-Q2; 2. K-
+Q3, and still maintains it by 3. K-K3 if Black plays a waiting
+move such as 2. ... K-K2. Now Black has no further waiting moves,
+as White threatens to capture one of the pawns. But playing into
+the third rank is of no use, as White then assumes the direct
+opposition, and wins as in Diagram 60. Black must allow White
+access to one side or the other. He could not have remained on
+the first rank at the outset either, for after 1. ... K-Q1, White
+advances through a square, to which Black cannot assume the
+opposition, namely, 2. K-B3. If now Black wishes to answer the
+threat of K-B 4-Kt5 and plays K-K2, White answers 3. K-K3 as
+before.
+
+2. K-K3 or KQ3 would be wrong, as Black would then succeed in
+assuming the opposition at K2 or Q2, and would be able to
+maintain it. White would be unable to circumvent this or to
+attack the pawns.
+
+        ---------------------------------------
+     8 |    |    |    |    | #K |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    | #P |    |    |    |    |    | #P |
+       |---------------------------------------|
+     4 |    | ^P |    |    |    |    |    | ^P |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    | ^K |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 62
+
+In this position, too, there is ample scope for the study of the
+opposition.
+
+If the pawns are still standing behind, the King who has the most
+advanced position has always the advantage, because he threatens
+to attack the opposing pawns should they leave their base. White
+has more pawn moves at his disposal, and will nearly always
+succeed in assuming the opposition.  For instance, in Diagram 63,
+White, having the move, wins because his King gets first into the
+centre of the board.
+
+1. K-K3, K-Q2; 2. K-B4, K-K2; 3. K-Kt5 K-B2; 4. K-R6, K-Kt1; 5.
+P-KB4, K-R1; 6. P-B5, PxP; 7. K-Kt5, K-Kt2; 8. KxP, K-B2. Black
+has now the opposition but cannot maintain it, having no pawn
+moves available. The White King threatens to capture any pawn
+that ventures forward.
+
+9. K-K5, K-K2; 10. K-Q5, K-Q2; 11. P-B4, P-B3ch; 12. K-K5, K-K2;
+13. P-B5, and wins, as Black will soon be compelled to play K-Q2,
+after which a manoeuvre shown previously gives White the Queen's
+Bishop's pawn.
+
+l3. ... P-KR4; 14. P-KR4, P-R4; 15. P-R4!  K-Q2; 16. K-B6, K-O1:
+17. K-K6, and so on.
+
+If in Diagram 63 the King stood at Q2 instead of B1, he could
+just manage to draw. White takes eleven moves to capture the
+Black King's side pawns, and to queen one of
+
+        ---------------------------------------
+     8 |    |    | #K |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    | #P |    |    |    |    | #P |
+       |---------------------------------------|
+     6 | #P |    |    |    |    |    | #P |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    | ^P |
+       |---------------------------------------|
+     2 | ^P |    | ^P | ^K |    | ^P |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 63
+
+his own, as can be easily seen. In eleven moves Black captures
+the opposing QBP and queens his own. We see here how the King's
+position can be counterbalanced by the weakness of a pawn, and
+lead to a draw. If the White QBP was not isolated but standing,
+for instance, at QKt2, Black would be lost, as calculation easily
+shows.
+
+The strength or weakness of a pawn position, which, as we saw,
+had so deciding an influence in the end-game position just
+treated, is one of the most important factors in a game of chess,
+and should have full consideration in the middle game. A pawn,
+when isolated, is naturally weaker than when it is or can be
+protected by another. It may easily lead to the loss of a game,
+as the mobility of the King or a piece is reduced by having to
+protect the pawn (compare End-game, p. 102).
+
+It is frequently and erroneously thought that DOUBLED pawns as
+such are a weakness. Doubled pawns are weak when ISOLATED, for
+they cannot support each other. But if doubled pawns can be
+supported by a pawn on the next file they need not by any means
+be at a disadvantage against three united single pawns on the
+opposite side. For instance, in Diagram 64, if Black had a pawn
+at QKt3 instead of R2, White would have no winning chances. He
+could not attack the pawns, nor would any kind of manoeuvres
+force a passed pawn through. In the diagram, however, White wins
+through
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 | #P |    | #P | #K |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^K |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     2 |    | ^P | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 64
+
+1. K-B5; Black cannot then hold the pawn at B3. 1. ... P-R3;  2.
+P-Kt4.
+
+In this particular case the win is made easy by the fact that the
+White King is able to attack the Black pawn at once. But even
+without this advantage, the weakness of
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    | #P | #K |    |    |    |    |
+       |---------------------------------------|
+     5 | #P |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 | ^P |    |    |    | ^K |    |    |    |
+       |---------------------------------------|
+     3 |    | ^P |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 65
+
+doubled pawns usually entails the loss of the game. Diagram 65
+may serve as an example.
+
+1. K-Q4, P-B4ch; 2. K-B4, K-B3; 3. P-B3 K-Kt3; 4. K-Q5, P-B3ch;
+5. K-B4, and wins.
+
+Doubled pawns are a drawback, even when not isolated, should
+there be no way of obtaining a passed pawn by exchanging them
+against a smaller number of single pawns.  This is illustrated in
+Diagram 66, in which Black wins because the three pawns on the
+King's side hold up the four White pawns and the Black King can
+assail the White pawns from the rear,
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    | ^P |    | ^P |
+       |---------------------------------------|
+     4 |    |    | #K |    |    |    | ^P |    |
+       |---------------------------------------|
+     3 |    |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    | ^P |    |    |
+       |---------------------------------------|
+     1 |    |    | ^K |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 66
+
+the White King being fettered by the necessity of capturing the
+QBP. The proper formation for the Black pawns would be at B3,
+Kt2, R3, after which White cannot force a pawn through by playing
+P-B4 and P-Kt5, as Black can refrain from making any exchange.
+Black could not afford to leave the pawns where they are, because
+even if there were no White pawn at B2, White would, by playing
+P-Kt5, threaten to win in the following way:
+
+1. P-Kt6, BPxP; 2. P-R6, and P-B6, etc.; or 1. ...  RPxP; 2. P-
+B6, with P-R6, etc. In a game Ed. Lasker-Moll (Berlin
+championship, 1904), from which the position is taken, Black
+played P-R3 in order to obtain the formation mentioned above, and
+White resigned after 2. P-B4? P-B3, P-Kt5, K-Q5. There was,
+however, a pretty win after Black's P-R3, namely: 2. P-B6, PxP;
+3. P-B4, K-Q5; 4. P-Kt5, BPxP; 5. PxP, K-K4; 6. PxP, K-B6; 7. K-
+B2 and Black is lost, because his own pawn obstructs the square
+B2, and the King must release the square Kt2, after which the
+White pawn queens.
+
+This winning combination, however, is only an interesting
+exception to the rule that positions of this kind are generally
+won by the side which possesses the passed pawn. In this
+particular case Black could have made the position secure by
+obtaining the ideal position of B3 Kt2 R3 for his pawns earlier,
+before the White pawns could advance so far. In the position of
+Diagram 66 Black could still have won by playing P-B3. After 2.
+P-R6, PxP; 3. P-B4, K-Q4; the Black King has time to overtake the
+passed pawn which results on the Bishop's file.
+
+To conclude the study of pawn endings with an equal number of
+pawns on either side, we will discuss Diagram 67,
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 | #K |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^P |    | ^K |    |    | #P |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    | ^P |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 67
+
+which illustrates a curious position occurring from time to time
+in practice. Whoever has the move wins by moving into distant
+opposition. White, therefore, should play K-K5 K-Q5 would lose,
+as Black would play K-Kt5, protecting his pawn and attacking the
+White pawn, the protection of which White has to give up next
+move. In the same way Black with the move cannot play K-Kt5
+because White wins the pawn with K-Q5. After 1. K-K5 Black cannot
+avoid the loss of the game, e.g. K-R3; 2. K-Q5, K-Kt3; 3. K-Q6,
+and so on. Black with the move wins similarly with K-R5.
+
+We have still to consider end-games in which a draw results in
+spite of a majority of pawns, or where a win can only be achieved
+by the sacrifice of an extra pawn.
+
+Diagram 68 shows the latter case. Here White can only win in the
+following manner: 1. P-Kt4ch, PxPch; 2. K-Kt3, K any; 3. KxP, and
+wins. Any other way would allow
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 | #P |    | #K |    |    |    | #P |    |
+       |---------------------------------------|
+     4 | ^P |    |    |    |    |    | ^P |    |
+       |---------------------------------------|
+     3 |    | ^P | ^K |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 68
+
+Black to assume the opposition and to force the draw, e.g. 1. K-
+B2, K-B3! 2. K-Q3, K-Q4, etc.
+
+Not 1. K-B2, K-Kt5? 2. K-Kt2, K-B4, 3. K-B3, etc., as in Diagram
+57.
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    | #K | #P |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    | ^P | ^P |    |
+       |---------------------------------------|
+     3 |    |    |    |    | ^K |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 69
+
+A counterpart to this position is found in Diagram 69, which
+shows one of the few cases in which the possession of an extra
+pawn does not force a win. It seems at first sight as if White
+could win by simply assuming the opposition with 1. K-K4
+continued: ... K-K2; 2. K-Q5, K-Q2; 3. P-B5, K-K2; 4. K-B6, etc.
+But Black would reply 1. ... P-B4ch! and after 2. PxPch, K-B3
+followed by KxP ensure the draw.
+
+We come now to those end-games in which pieces as well as pawns
+are left on the board.
+
+As it is my aim to give typical examples, I shall confine myself
+to positions where there is only one piece besides the King. Most
+end-games with several pieces can be reduced to that.
+
+In nearly all end-games with pieces the King's manoeuvres used in
+pawn endings are of no avail, as far as opposition is concerned,
+as the advantage of opposition means that the opponent is forced
+to move his King, and as long as there are pieces on the board,
+such "forced move" positions are infrequent. However, the
+strength of the pawn position is of the same importance as in
+pawn endings, just as the command of as many squares as possible
+is essential for the King. A third and very important factor is
+again the mobility of pieces.
+
+A good example is found in Diagram 70, a position from a game
+Post-Leonhardt (Berlin Jubilee Tournament, 1907).
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 | #P |    |    | #K |    |    | #B | #P |
+       |---------------------------------------|
+     5 | ^P | #P |    | #P |    | #P |    |    |
+       |---------------------------------------|
+     4 |    | ^P |    | ^K |    | ^P |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^B | ^P |    |    | ^P |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 70
+
+Black's pawn position is weaker, because the White pawns, being
+on Black squares, cannot be attacked by the Bishop, whilst Black
+has two isolated pawns on White squares.  Furthermore the Black
+Bishop has less mobility than the White one, and finally the
+Black King is tied to his Q3, to prevent White's entry at B5 or
+K5. These drawbacks decide the issue. 1. ... B-R2; 2. P-R4, B-
+Kt3; 3. B-B2, P-R4. (After B-R2 White would command the square at
+Kt6 through P-R5); 4. B-Q3, B-R2; 5. B-B1, and Black resigns, for
+White threatens to establish his Bishop at B3, where the pawns at
+Q5 and R5 are both attacked, whilst the Black Bishop is at once
+forced to occupy the only square from which both pawns are
+covered, namely B2. As this square must be abandoned in the next
+move, Black loses a pawn and the game.
+
+5. ... B-Kt1; 6. B-K2, B-B2; 7. B-B3, and wins, or 5. ... B-Kt3;
+6. B-Kt2, B-B2; 7. B-B3, and wins.
+
+A corresponding instance of KNIGHT V. BISHOP is the end-game
+Blackburne-Schlechter (p. 102).
+
+It is difficult to gauge the relative value of Bishop and Knight
+in the end-game. The Knight has the advantage of access to all
+squares; against that the Bishop is able to fight at long range,
+and offers opportunities of gaining moves in certain positions
+where there is a "forced move" (compare p. 90).
+
+As already stated, two Bishops are superior to two Knights
+because the limitation of the colour of squares ceases. A Rook
+generally wins against a Bishop or a Knight, sometimes even
+against a majority of one or two pawns, provided, of course, that
+there are still pawns on the Rook's side, and that their exchange
+cannot be forced. The following position (Diagram 71), from a
+game Moll-Post, shows how to proceed in such cases.
+
+Here White can force a win in the following way:  1. RxP, P-Kt6;
+2. R-R6, PxP; 3. RxP, K-B2; 4. R-B2, B-Kt5; 5. R-B4, B-R4; 6. P-
+B4! The Black pawn position must first be torn up, if it is to be
+attacked successfully.
+
+Now Black's defeat is inevitable, whether the pawn is taken or
+not. The sequel would be 6. ... PxP; 7. RxP, after which the Rook
+goes to KR5 and the Rook's pawn must fall, or: 6. ... K-Kt3; 7.
+PxP, PxP; 8. R-B6ch, K-Kt2; 9. R-B5, and the Bishop's pawn is
+lost, unless Black gives up his passed pawn. In this case Black
+loses also: 9. R-B5, B-Q1; 10. KxP, K-Kt3; 11. K-Q3, B-B3; 12. R-
+B6, K-Kt2; 13. K-K4, K-Kt3; 14. R-R6, K-B2; 15. K-B5, B-Q1; 16.
+R-KKt6, followed by RxP, etc.
+
+The Queen against a minor piece wins so easily that it is not
+necessary to give an example. It only remains to discuss end-
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 | ^R |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    | #P | #K |    |
+       |---------------------------------------|
+     5 | #P |    |    |    |    |    | #P |    |
+       |---------------------------------------|
+     4 |    | #P |    |    |    |    | ^P | #P |
+       |---------------------------------------|
+     3 |    |    | #B |    |    | ^P |    | ^P |
+       |---------------------------------------|
+     2 | ^P |    |    | #P | ^K |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 71
+
+games of QUEEN V. QUEEN, ROOK V. ROOK, AND MINOR PIECE V. MINOR
+PIECE, in which one player has a majority of pawns, or an equal
+number of pawns, one of which is passed. As a rule the extra
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    | #B |    |    |    |    |    | #P |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    | ^P |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    | ^Kt|    | ^K |    | #P | #K |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 72
+
+pawn leads to a win. There are, however, exceptions frequently
+recurring in practice to which I must refer specially.
+
+Diagram 72 shows an end-game with a Rook's pawn and a Bishop "of
+the wrong colour."
+
+White draws with 1. Kt-Q2, P-B7; 2. Kt-K4ch, K-Kt7; 3. KtxP, and
+draws, as Black, in order to capture the White pawn, after KxKt
+must give the White King access to the Rook's square, from which
+he could not be dislodged except by a Bishop on White squares.
+
+In Diagram 73 White cannot win although his Bishop is of the
+"right colour" by 1. P-B7, KtxP; 2. BxKt, and White cannot win
+the Rook's pawn. He can only attack the pawn from Kt7 or Kt8,
+both of which are inaccessible as the Black King gets to Kt1. It
+is a stalemate position. If the White
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    | #K |    |    | #P |
+       |---------------------------------------|
+     6 |    |    | ^P |    | #Kt|    |    | ^P |
+       |---------------------------------------|
+     5 |    |    |    | ^K | ^B |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 73
+
+pawn were still at R5, White's King could attack the pawn from R6
+and secure the win.
+
+In the position given, White could only win by keeping his passed
+pawn, and indeed it is possible to win by gaining a move with the
+Bishop. In the diagram it is White's move.  Black with the move
+could not play K-B2 because K-Q6 would follow. The Knight would
+have to move, allowing the pawn to queen. Therefore White must
+try to bring about the same position with Black to move. He can
+do this, for instance, in the following way:
+
+1. B-Kt3, K-B2 (now 2. K-Q6 would be bad on account of Kt-Q5, 3.
+P-B7, Kt-Kt5ch, and KtxP); 2. B-R2, K-K2; 3. B-K5. Now White's
+plan has succeeded; the same position has occurred, and it is
+Black's move. As mentioned before, the King must not move, but
+Knight's moves are of no avail. If 3. ... Kt-Kt4; 4. B-B6ch, the
+Knight is lost, or alternatively the pawn queens. On 3. ... Kt-
+B1, B-Q6ch decides, and on 3. ... Kt-Q1; 4. B-B6ch, K-K1; 5. BxKt
+would follow.
+
+On this occasion I should like to point out that it is impossible
+to gain a move with a Knight, as a square which is accessible to
+him in an odd number of moves cannot be reached by him in an even
+number. A simple instance is Diagram 74.
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    | #K |    | ^K |
+       |---------------------------------------|
+     6 |    |    | ^Kt|    |    |    |    | ^P |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 74
+
+White loses, having the move. 1. K-R8, Kt-K4; 2. K-R2, Kt-Q2; 3.
+K-R8, Kt-B1; 4. P-R7, Kt-Kt3 mate.
+
+Black with the move cannot win, as he cannot bring about the same
+position with White to move.
+
+In end-games of BISHOP V. BISHOP, of which we have already had an
+example in Diagram 70, an extra pawn wins in most cases if the
+Bishops are of the same colour. It is generally possible to force
+an exchange of Bishops and obtain one of the well-known pawn
+endings.
+
+On the other hand an ending with Bishops of different colour
+leads mostly to a draw, frequently even against a majority of two
+pawns. The position in Diagram 75 is a draw, because it is
+impossible for the White King to get round his Kt pawn to drive
+off the Bishop.
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    | #B |    |
+       |---------------------------------------|
+     5 |    | #P |    | #K |    |    | ^P |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    |    | ^K |    |
+       |---------------------------------------|
+     3 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    | ^B |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 75
+
+With two passed pawns distant from each other, a win can
+generally be forced, as in the following position (Diagram 76).
+
+        ---------------------------------------
+     8 |    |    |    | #B |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    | #K |    |    |
+       |---------------------------------------|
+     5 |    | ^P |    |    |    | ^P |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    | ^K |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^B |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 76
+
+The King moves up to the pawn, the progress of which is barred by
+the Bishop (not the King). He thereby forces the sacrifice of the
+Bishop. If the Black King comes to the rescue of the Bishop, the
+other pawn proves Black's downfall.
+
+1. K-K4, K-K2; 2. K-Q5, K-Q2; 3. B-K4, B-K2; 4. P-Kt6, B-Q1; 5.
+P-Kt7, K-B2; 6. K-K6, and wins; or 5. ... B-B2; 6. P-B6, B-R7; 6.
+B-B2, K-K1; 8. K-K6, B-Kt1; 9. B-Kt6ch, K-B1; 10. K-Q7, and wins.
+
+When the pawns are united, one should observe this rule: if they
+are attacked, they should, if possible, move to squares of the
+colour of the opposing Bishop.
+
+Therefore in the position set out in Diagram 77 White should not
+play P-B5, but P-K5. After 1. P-B5 there is no possible chance
+for White to assume the command of the Black squares, and in
+order to advance the pawns it is necessary
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    | #B |    |    |    | #K |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^P | ^P |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    | ^K |    |    |
+       |---------------------------------------|
+     1 |    |    |    | ^B |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 77
+
+to force access to both White and Black squares. In the present
+instance play would proceed on these lines:
+
+1. P-K5, B-R4; 2. K-K3, K-B2; 3. K-K4, K-K2;  4. P-B5, B-Kt5; 5.
+P-B6ch, K-B1; 6. P-K6, B-R6; 7. B-R4, B-Kt5. White can only get
+through with the King's Pawn, as P-B7 is unavailing on the
+grounds set out above. But in order to play P-K7, the square K7
+must first be covered a second time, so that the Bishop cannot be
+given up for the two pawns. Therefore: 8. K-Q5, B-R6 (B-B6; P-
+K7ch); 9. K-B6, K-K1; 10.  K-B7ch, K-B1; 11. K-Q7, and wins.
+
+In end-games with one Knight on each side, an extra pawn usually
+decides the game much in the same way as in end-games with
+Bishops of the same colour; frequently even with equal pawns, the
+possession of a passed pawn is sufficient, as it keeps either the
+King or the Knight busy, so that there is only one piece
+available for the defence of the pawns. An instructive example is
+the end-game Ed. Lasker-Rotlevi on p. 100.
+
+End-games with Rook against Rook are the most frequent, as well
+as the most difficult. Here the possession of an extra pawn is
+seldom sufficient for a win, unless the stronger side has also an
+advantage in the greater mobility of the Rook.  Diagram 78 is
+typical of such cases, frequent in practice, in
+
+        ---------------------------------------
+     8 |    |    |    | #R |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    | ^R |    |    |    | #P | #K |
+       |---------------------------------------|
+     6 | ^P |    |    |    |    |    |    | #P |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    | ^P |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    | ^K | ^P |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 78
+
+which the greater mobility is the deciding factor. Although White
+has one pawn more, he can only win by reducing the mobility of
+the Black Rook through the following manoeuvre:  1. R-B2, R-Q2;
+2. R-R2, R-R2. Now the Black Rook has only one move left, whilst
+the White Rook has the freedom of the Rook's file. For instance,
+the Rook can be posted at R5 and prevent the Black King from
+attacking White's King's side pawns, whilst the White King makes
+for the R at R7 and effects its capture. If, on the other hand,
+the Black King tries to obstruct the way to the Queen's side,
+White penetrates into the Black pawn position. Black cannot
+maintain the opposition because the White Rook has spare moves,
+the Black Rook none. e.g. 3. K-B3, K-Kt3; 4. R-R5, K-B3; 5. K-K4,
+K-K3; 6. R-R4, P-Kt3; 7. R-R5, K-Q3; 8. K-Q4, K-B3; 9. K-K5, and
+wins the pawns.
+
+Having the move, Black would draw the game by:  1. ... R-Q7ch; 2.
+K-R3, R-R7. By placing his Rook behind the passed pawn he
+condemns the opposing Rook to inactivity, whilst his own is free
+to move on the Rook's file.  If now the White King comes up, he
+will in the end force the sacrifice of the Black Rook for the
+pawn, but meanwhile the Black King captures the White pawns, and
+with passed pawns on the King's side might get winning chances.
+
+When there is only one pawn left in endings of R against R, the
+weaker side maintains the draw, if the King can command the
+queening square. Diagram 79 shows a position favourable to the
+stronger side, and which can mostly be obtained in this end-game.
+But here, too, Black forces a draw with a pretty manoeuvre: 1.
+... R-B2; 2. R-KKt2, R-Q2ch; 3. PXR, and Black is stalemate.
+
+        ---------------------------------------
+     8 |    |    | #R | #K |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    | ^P | ^K |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    | ^R |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 79
+
+The chances of a draw are even greater in endings of Q against Q,
+as the King on the stronger side can seldom evade perpetual
+check. For the sake of completeness I will show a few cases in
+which Q or R cannot win against an advanced pawn.
+
+In Diagram 80 White can still draw, for in five moves the pawn
+reaches Kt7, supported by the King at R7, and in that time Black
+cannot come up with his King, so that he must give up the Rook
+for the pawn. Two passed pawns win, even when the King is away
+from them, if they have reached their sixth square. In Diagram
+81, for instance, White is lost,
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 | ^K |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    | ^P |    |    | #R |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    | #K |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 80.
+
+as Black gives up his Rook at Q7 and plays P-Kt6, after which one
+of the pawns queens.
+
+The Queen wins against an advanced pawn, even when the latter is
+supported by the King; only the R or B pawn can
+
+        ---------------------------------------
+     8 |    |    | ^K |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    | ^P |    |    |    | ^R |
+       |---------------------------------------|
+     6 |    |    | #K |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    | #R |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    | #P |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    | #P |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 81.
+
+draw sometimes, when the pawn is on the seventh supported by the
+King, and the opposing Q cannot move to the queening square.
+
+The following illustrates the three principal cases:
+
+          A. Position--White: K at QKt8, P at QR7
+                       Black: K at QR8, Q at QB3
+
+Black must stop the pawn and plays Q-Kt3ch. White answers with K-
+R sq and is stalemate unless White lets the Kt's file free again.
+This end-game can only be won if the stronger King can assume the
+opposition in two moves. Therefore, if in the above example the
+Black King was standing at Q5, Black would win as follows: 1. ...
+Q-K1ch; 2. K-Kt7, Q-K2ch; 3. K-Kt8, K-B4; 4. P-R8 = Q, K-Kt3. and
+White cannot cover the mate.
+
+          B. Position--White: K at QKt8, P at QB7
+                       Black: K at Q5, Q at QB3
+
+White draws: 1. ... Q-Kt3ch; 2. K-R8, QxP stalemate.
+
+          C. Position--White: K at QKt8, P at QKt7
+                       Black: K at Q5, Q at QB3 White loses.
+
+1. K-R7, Q-R5ch; 2. K-Kt6, Q-Kt5ch; 3. K-B7, Q-B4ch; 4. K-Q8, Q-
+Q3ch; 5. K-B8, Q-B3ch; 6. K-Kt8, K-B4; 7. K-R7, Q-R5ch; 8. K-Kt8,
+K-B3; 9. K-B8, Q-R3, etc.
+

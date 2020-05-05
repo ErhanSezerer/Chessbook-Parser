@@ -1,0 +1,297 @@
+CHAPTER I
+
+INTRODUCTORY
+
+
+I. RULES OF THE GAME
+
+
+A GAME of chess is played by two opponents on a square board
+consisting of sixty-four White and Black squares arranged
+alternately. The forces on each side comprise sixteen units,
+namely a King, a Queen, two Rooks, two Bishops, two Knights, and
+eight Pawns. All units move according to different laws, and the
+difference in their mobility is the criterion of their relative
+value and of the fighting power they contribute towards achieving
+the ultimate aim, namely, the capture of the opposing King.
+Before I can explain what is meant by the capture of the King, I
+must set out the rules of the game in full.
+
+Diagram 1 shows the position the forces take up for the contest.
+The board is so placed that there is a white square at the top
+left-hand corner. The Rooks take up their positions at the corner
+squares, and next to them the Knights.  Next to those again are
+the Bishops, and in the centre the King and Queen, the White
+Queen on a White square, and the Black Queen on a Black square.
+The eight pawns occupy the ranks immediately in front of the
+pieces. From this initial position, White begins the game in
+which the players must move alternately.
+
+The pieces move in the following way: The Rook can move from any
+square it happens to be on, to any other square which it can
+reach in a straight line, either perpendicularly or horizontally,
+unless there is another piece of the same colour in the way, in
+which case it can only move as far as the square immediately in
+front of that piece. If it is an opposing piece which blocks the
+way, he can move on to the square that piece occupies, thereby
+capturing it. The piece thus captured is removed from the board.
+The Bishop can operate along either of the diagonals of which the
+square on which he is standing forms part. A Bishop on a White
+square can there fore never get on to a Black one.
+
+        ---------------------------------------
+     8 | #R | #Kt| #B | #Q | #K | #B | #Kt| #R |
+       |---------------------------------------|
+     7 | #P | #P | #P | #P | #P | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P | ^P | ^P | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt| ^B | ^Q | ^K | ^B | ^Kt| ^R |
+        ---------------------------------------
+         a    b    c    d    e    f    g    h
+
+                DIAG. 1.
+
+The Queen commands both the straight and the oblique lines which
+start from the square she stands on, and therefore unites the
+power of both Rook and Bishop in her movements.
+
+The King has similar powers to the Queen, but curtailed, inasmuch
+as he can only move one step at a time. He therefore only
+controls one neighbouring square in any direction.
+
+The Knight plays and captures alternately on White and Black
+squares, and only reaches such squares as are nearest to him
+without being immediately adjacent; his move is as it were
+composed of two steps, one square in a straight line, and one in
+an oblique direction. Diagram 2 will illustrate this.
+
+[Footnote: I should like to quote my friend Mr. John Hart's
+clever definition of the Knight's move, though it may not be new.
+If one conceives a Knight as standing on a corner square of a
+rectangle three squares by two, he is able to move into the
+corner diagonally opposite.]
+
+The pawns only move straight forward, one square at a time,
+except at their first move, when they have the option of moving
+two squares. In contrast to the pieces, the pawns do not capture
+in the way they move. They move straight forward, but they
+capture diagonally to the right and left, again only one square,
+and only forward. Therefore a pawn can only capture such pieces
+or pawns as occupy squares of the same colour as the square on
+which it stands. If, in moving two squares, a pawn traverses a
+square on which it could have been captured by a hostile pawn,
+that pawn has the right to capture it, as if it had moved only
+one square. This is called capturing EN PASSANT. However, this
+capture can only be effected on the very next move, otherwise the
+privilege of capturing en passant is lost.
+
+       ---------------------------------------
+    8 |    |    |    |    |    |    |    |    |
+      |---------------------------------------|
+    7 |    |    |    |    |    |    |    |    |
+      |---------------------------------------|
+    6 |    |    |    | *  |    | *  |    |    |
+      |---------------------------------------|
+    5 |    |    | *  |    |    |    | *  |    |
+      |---------------------------------------|
+    4 |    |    |    |    | ^Kt|    |    |    |
+      |---------------------------------------|
+    3 |    |    | *  |    |    |    | *  |    |
+      |---------------------------------------|
+    2 |    |    |    | *  |    | *  |    |    |
+      |---------------------------------------|
+    1 |    |    |    |    |    |    |    |    |
+       ---------------------------------------
+        A    B    C    D    E    F    G    H
+
+                        Diag. 2.
+
+If a player succeeds in reaching the eighth rank with one of his
+pawns he is entitled to call for any piece of higher grade, with
+the exception of the King, in place of such pawn.
+
+Each move in a game of chess consists of the displacement of one
+piece only, with the exception of what is termed "castling," in
+which the King and either Rook can be moved simultaneously by
+either player once in a game. In castling, the King moves
+sideways to the next square but one, and the Rook to which the
+King is moved is placed on the square which the King has skipped
+over. Castling is only allowed if neither the King nor the Rook
+concerned have moved before, and if there is no piece between the
+Rook and King.
+
+Diagram 3 shows a position in which White has castled on the
+Queen's side, and Black on the King's side. Castling is not
+permitted if the King in castling must pass over a square
+attacked by a hostile piece. A square (or a piece) is said to be
+"attacked" when the square (or the piece) is in the line of
+action of a hostile unit. A square (or a piece) is said to be
+covered or protected if an opposing piece occupying that square
+(or capturing the piece) could itself be captured.
+
+When attacking the King it is customary to call "check,"  to
+notify the opponent of the fact; for the attack on the King
+
+        ---------------------------------------
+     8 |    |    |    | #R |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P | #P |    |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #P |    | #P |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    | ^K | ^R |    |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                        Diag. 3.
+
+must be met in some way or other. This can be done by capturing
+the attacker or by interposing a piece (this is not possible in
+case of attack by a Knight or a pawn), or lastly by moving the
+King to a square which is not attacked. The latter must not be
+done by castling. If it is impossible by any of the three methods
+above mentioned to avoid the attack upon the King, the King is
+said to be checkmated, and the game is ended.
+
+If a King is unable to move, though not attacked, and none of his
+remaining pieces can move, the King is said to be stale-mated,
+and the game is drawn. A game is also drawn when neither side has
+sufficient material left to enforce a mate.  (Compare page 63.)
+
+If a player resigns his game before he is actually mated, he
+acknowledges that in the end mate is unavoidable, and the game is
+counted as a loss to him.
+
+A game is null and void if it is shown that a mistake was made in
+setting the board or men. The same applies when in the course of
+the game the position and number of pieces have been altered in a
+manner not in accordance with the proper course of play, and the
+latter cannot be re-constructed from the point where the error
+was made.
+
+If a player having the move touches one of his pieces he is under
+compulsion to move it; if he touches a hostile piece he must
+capture it, provided that the piece can be properly moved or
+captured in either case. This rule is of no effect if the piece
+so touched cannot be moved or captured, as the case may be.  So
+long as the hand has not left the piece to be moved, the latter
+can be placed on any accessible square. If a player touches a
+piece with the sole object of adjusting its position, he must
+apprise his opponent of his intention by saying  "J'adoube"
+beforehand. It is best to move the King first when castling. If
+the Rook is moved first, and unless the King is played almost
+simultaneously, a doubt might arise whether castling or a Rook's
+move only was intended.
+
+If a player has castled illegally, Rook and King must be moved
+back, and the King must make another move, if there is a legal
+one. If not, any other move can be played. A player who makes an
+illegal move with a piece must retract that move, and make
+another one if possible with the same piece. If the mistake is
+only noticed later on, the game should be restarted from the
+position in which the error occurred.
+
+
+II. NOTATION
+
+
+A special notation has been adopted to make the study of games
+and positions possible, and it is necessary for students of the
+game to become thoroughly conversant with it. The original and
+earliest notation is still in use in English, French, and Spanish
+speaking countries. It is derived from the original position in
+the game, in that the squares take the names of the pieces which
+occupy them. Thus the corner squares are called R 1 (Rook's
+square or Rook's first), and to distinguish them from one another
+QR1 or KR 1 (Queen's or King's Rook's square). The squares
+immediately in front are called QR2 or KR2. A distinction is made
+between White and Black, and White's R 1 is Black's R 8, Black's
+R 2 is White's R 7, White's K B 3 is Black's KB6, and so on. K
+stands for King; Q for Queen; B for Bishop; Kt for Knight; R for
+Rook; and P for Pawn. In describing a capture, only the capturing
+and the captured pieces are mentioned, and not the squares.
+
+When confusion is possible, it is customary to add whether King's
+side or Queen's side pieces are concerned, e.g. KRx Q Kt.  In
+this notation it is necessary to bear in mind which Kt is the Q
+Kt, which R is the KR. This becomes increasingly difficult as the
+game goes on and pieces change their places.  Many sets of
+chessmen have one Rook and one Knight stamped with a special
+sign, to show they are King's side pieces. This is not necessary
+in the case of Bishops: a white KBis always on white squares, a
+white QBon black squares.
+
+A more modern notation is the algebraic notation, which has been
+adopted in most countries. It has the advantage of being
+unmistakably clear, and also more concise. Here the perpendicular
+lines of squares (called files) are named with the letters a-h,
+from left to right, always from the point of view of White, and
+the horizontal lines of squares (called ranks) with numbers 1-8
+as before, only with the distinction that the rank on which the
+White pieces stand is always called the first; thus the square we
+named White's QB2 or Black's QB7 is now called c2 in both cases.
+Black's QB2 (White's QB7) is always c7. In capturing, the square
+on which the capture takes place and not the piece captured is
+noted, for the sake of uniformity. In the case of pawn moves, the
+squares only are noted.
+
+O--O stands for castles on the King's side; O--O--O stands for
+castles on the Queen's side; : or x stands for captures; + for
+check.
+
+In the following opening moves, both notations are used for the
+purpose of comparison:
+
+    1. P-Q 4      P-Q4         1. d4         d5
+    2. P-QB4      P-K3         2. c4         e6
+    3. Kt-QB3     P-QB4        3. Ktc3       c5
+    4. PxQP       KPxP         4. cd:        ed:
+    5. P-K4       QPxP         5. e4         de:
+    6. P-Q5       Kt-KB3       6. d5         Ktf6
+    7. B--KKt5    B-K2         7. Bg5        Be7
+    8. K Kt-K2    Castles      8. Ktge2      O--O
+
+In most books in which the algebraic notation is used, both
+squares of a move are written out for the benefit of the student.
+The moves above would then look like this:
+
+          1. d2-d4          d7-d5
+          2. c2-c4          e7-e6
+          3. Ktb1-c3        c7-c5
+          4. C4 x d5        e6xd5
+          5. e2-e4          d5xe4
+          6. d4-d5          Ktg8-f6
+          7. Bc1-g5         Bf8-e 7
+          8. Ktg1-e2        O--O
+
+To conclude: I will give the denomination of the pieces in
+various languages:
+
+English .............. K  Q  R  B  Kt P   Castles
+French  .............. R  D  T  F  C  P   Roq
+Spanish .............. R  D  T  A  C  P   Enrog
+German and Austrian .. K  D  T  L  S      O-O (O)
+Italian .............. R  D  T  A  C      O-O (O)
+Russian .............. KP F  L  C  K      O-O (O)
+Dutch ................ K  D  T  L  P      O-O (O)
+Scandinavian ......... K  D  T  L  S      O-O (O)
+Bohemian ............. K  D  V  S  J      O-O (O)
+Hungarian ............ K  V  B  F  H      O-O (O)
+
