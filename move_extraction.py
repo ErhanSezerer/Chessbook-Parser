@@ -6,17 +6,17 @@ def parse_text(f):
 	content = f.read()
 
 	# standard move description e.g. KtxP
-	move_1 = re.search("\s{1}(R|Kt|B|Q|K|P)(R|Kt|B|Q|K|P)?\s?(-|x|X)\s?(\n)?(R|Kt|B|Q|K|P)(R|Kt|B|Q|K|P)?(\d)?(\s)?(double)?(\n)?(ch)?(mate)?", content, re.DOTALL)
-	for move_1 in re.finditer("\s{1}(R|Kt|B|Q|K|P)(R|Kt|B|Q|K|P)?\s?(-|x|X)\s?(\n)?(R|Kt|B|Q|K|P)(R|Kt|B|Q|K|P)?(\d)?(\s)?(double)?(\n)?(ch)?(mate)?",content,re.DOTALL):
-		print(move_1)
+	#move_1 = re.search("\s{1}(R|Kt|B|Q|K|P)(R|Kt|B|Q|K|P)?\s?(-|x|X)\s?(\n)?(R|Kt|B|Q|K|P)(R|Kt|B|Q|K|P)?(\d)?(\s)?(double)?(\n)?(ch)?(mate)?", content, re.DOTALL)
+	#for move_1 in re.finditer("\s{1}(R|Kt|B|Q|K|P)(R|Kt|B|Q|K|P)?\s?(-|x|X)\s?(\n)?(R|Kt|B|Q|K|P)(R|Kt|B|Q|K|P)?(\d)?(\s)?(double)?(\n)?(ch)?(mate)?",content,re.DOTALL):
+		#print(move_1)
 	#if not (move_1 is None):
 	#	print(move_1.group())
 
 	# textual move description with move location e.g. Bishop capture on K5
-	#move_2 = re.search("(\w+)\s{1}(from|to|at|on|with)(\s|\n)?(R|Kt|B|Q|K|P)?-?(R|Kt|B|Q|K|P)\d", content, re.DOTALL)
-	#for move_2 in re.finditer('(\w+)\s{1}(\w+)\s{1}(from|to|at|on|with)(\s|\n)?(R|Kt|B|Q|K|P)?-?(R|Kt|B|Q|K|P)\d',content,re.DOTALL):
+	move_2 = re.search("(\w+)\s{1}(from|to|at|on|with)(\s|\n)?(R|Kt|B|Q|K|P)?-?(R|Kt|B|Q|K|P)\d", content, re.DOTALL)
+	for move_2 in re.finditer('(\w+)\s{1}(\w+)\s{1}(from|to|at|on|with)(\s|\n)?(R|Kt|B|Q|K|P)?-?(R|Kt|B|Q|K|P)\d',content,re.DOTALL):
 	#for move_2 in re.finditer('(\w+)\s{1}(\w+)\s{1}(from|to|at|on)\s{1}?(R|Kt|B|Q|K|P)\s{1}?(\d)', content):
-		#print(move_2)
+		print(move_2)
 	#if not (move_2 is None):
 	#	print(move_2.group())
 

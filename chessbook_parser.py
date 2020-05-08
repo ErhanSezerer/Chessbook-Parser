@@ -59,9 +59,13 @@ def main():
 	r_multi_refer = r'(Diagrams|diagrams)(\n)?\s{1}?(\n)?[0-9]+(\n)?\s{1}?(\n)?and(\n)?\s{1}?(\n)?[0-9]+'
 	re_diagram  = re.compile("(%s|%s)"%(r_single_refer,r_multi_refer))
 
-	#regex for finding moves
+	#regex for finding formal moves
 	r_formal = r'\s{1}(R|Kt|B|Q|K|P)(R|Kt|B|Q|K|P)?\s?(-|x|X)\s?(\n)?(R|Kt|B|Q|K|P)(R|Kt|B|Q|K|P)?(\d)?(\s)?(double)?(\n)?(ch)?(mate)?'
 	re_move = re.compile("(%s)"%(r_formal))
+
+	#regex for finding textual move descriptions
+	r_move_desc = r'(\w+)\s{1}(from|to|at|on|with)(\s|\n)?(R|Kt|B|Q|K|P)?-?(R|Kt|B|Q|K|P)\d'
+	re_movetextual = re.compile("(%s)"%(r_move_desc))
 
 	for paragraph in book_paragraphs:
 		parag_print = False
@@ -77,9 +81,15 @@ def main():
 			print("moves:")
 			for i in range(len(found_move)):
 				print(found_move[i][0])
+		found_textual_move = re_movetextual.findall(paragraph)
+		if len(found_textual_move)!=0:
+			parag_print = True
+			print("textual move descriptions:")
+			for i in range(len(found_textual_move)):
+				print(found_textual_move[i][0])
 		if parag_print:
 			parag_print = False
-			print(paragraph)
+			print("Paragraph:\n" + paragraph)
 			print("----------------------------")
 
 
