@@ -67,6 +67,10 @@ def main():
 	r_move_desc = r'(\w+)\s{1}(from|to|at|on|with)(\s|\n)?(R|Kt|B|Q|K|P)?-?(R|Kt|B|Q|K|P)\d'
 	re_movetextual = re.compile("(%s)"%(r_move_desc))
 
+	#regex for finding numbered items to catch move pairs
+	r_numbered_item = '(\s[\d]+\. )(.*?)(?=(\s[\d]+\.)|($))'
+	re_numbered_item = re.compile(r_numbered_item,re.DOTALL)
+
 	for paragraph in book_paragraphs:
 		parag_print = False
 		found_diag = re_diagram.findall(paragraph)
@@ -81,6 +85,14 @@ def main():
 			print("moves:")
 			for i in range(len(found_move)):
 				print(found_move[i][0])
+
+		found_numbered_item = re_numbered_item.findall(paragraph)
+		if len(found_numbered_item)!=0:
+			parag_print = True
+			print("numbered items:")
+			for j in range(len(found_numbered_item)):
+				print(found_numbered_item[j][0] + found_numbered_item[j][1])
+
 		found_textual_move = re_movetextual.findall(paragraph)
 		if len(found_textual_move)!=0:
 			parag_print = True
