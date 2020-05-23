@@ -17,7 +17,7 @@ def get_FEN_notation(board):
 				row += PARAM.piecesFEN[piece.strip()]
 		notation += row + "/"
 	notation = notation[:-1]
-	
+
 	return notation
 
 

@@ -1,8 +1,11 @@
 from parameters import PARAM
 import os
 from diagram_extractor import *
+from move_operations import *
 import re
-
+import chess.engine
+from stockfish import Stockfish
+import string
 
 
 def main():
@@ -68,7 +71,7 @@ def main():
 	re_movetextual = re.compile("(%s)"%(r_move_desc))
 
 	#regex for finding numbered items to catch move pairs
-	r_numbered_item = '(\s[\d]+\. )(.*?)(?=(\s[\d]+\.)|($))'
+	r_numbered_item = '(\s[\d]+\. )(.*?)(\S+)(.*?)(\S+)(.*?)(?=(\s[\d]+\.)|($))'
 	re_numbered_item = re.compile(r_numbered_item,re.DOTALL)
 
 	for paragraph in book_paragraphs:
@@ -88,10 +91,13 @@ def main():
 
 		found_numbered_item = re_numbered_item.findall(paragraph)
 		if len(found_numbered_item)!=0:
+			print(found_numbered_item)
 			parag_print = True
 			print("numbered items:")
+			#initial_board_fen = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'
+			#play_move_sequence(found_numbered_item,initial_board_fen)
 			for j in range(len(found_numbered_item)):
-				print(found_numbered_item[j][0] + found_numbered_item[j][1])
+				print(found_numbered_item[j][2]+found_numbered_item[j][2]+found_numbered_item[j][4])
 
 		found_textual_move = re_movetextual.findall(paragraph)
 		if len(found_textual_move)!=0:

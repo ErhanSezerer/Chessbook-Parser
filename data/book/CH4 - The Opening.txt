@@ -42,7 +42,7 @@ some time ago:
           1. P-K4           P-K4
           2. P-Q4           PxP
           3. QxP            Kt-QB3
-          4. Q-K3           Kt-B3
+          4. Q-K3           Kt-KB3
           5. P-KR3?
 
 I will not discuss the system of development adopted by White in

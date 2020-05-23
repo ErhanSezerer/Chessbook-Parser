@@ -3,10 +3,11 @@ class parameters(object):
 	def __init__(self):
 
 		#PATHS
-		self.root_filepath = "/media/darg1/Data/Projects/chess/Chessbook-Parser/data"
-		self.book_path = "/media/darg1/Data/Projects/chess/Chessbook-Parser/data/book/CH4 - The Opening.txt"
-		self.diagram_path = "/media/darg1/Data/Projects/chess/Chessbook-Parser/data/diagrams"
-		self.move_path = "/media/darg1/Data/Projects/chess/Chessbook-Parser/data/moves"
+		#self.root_filepath = "/media/darg1/Data/Projects/chess/Chessbook-Parser/data"
+		self.root_filepath = "data"
+		self.book_path = "data/book/CH4 - The Opening.txt"
+		self.diagram_path = "data/diagrams"
+		self.move_path = "data/moves"
 
 		
 
