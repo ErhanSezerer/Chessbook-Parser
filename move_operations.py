@@ -62,9 +62,8 @@ def capture(board,source_piece,target_piece):
 def play_move_sequence(move_sequence,initial_board_fen):
     board = chess.Board(initial_board_fen)
     for j in range(len(move_sequence)):
-        # print(found_numbered_item[j][0] + found_numbered_item[j][1] + found_numbered_item[j][2] + found_numbered_item[j][3])
-        print(move_sequence[j][2])
-        formal_move = parse_formal_move(move_sequence[j][2], "white")
+        print(move_sequence[j][1])
+        formal_move = parse_formal_move(move_sequence[j][1], "white")
         if formal_move[2] == False:
             if formal_move[0] == "P":
                 board.push_san(formal_move[1])
@@ -76,9 +75,9 @@ def play_move_sequence(move_sequence,initial_board_fen):
             capture(board, formal_move[0], formal_move[1].lower())
         print(board)
         print(formal_move)
-        if move_sequence[j][4] == "?":
+        if move_sequence[j][2] == "?":
             break
-        formal_move = parse_formal_move(move_sequence[j][4], "black")
+        formal_move = parse_formal_move(move_sequence[j][2], "black")
         if formal_move[2] == False:
             if formal_move[0] == "P":
                 board.push_san(formal_move[1])
@@ -93,7 +92,8 @@ def play_move_sequence(move_sequence,initial_board_fen):
         print(formal_move)
     return
 
-move_sequence = [(' 1. ', '', 'P-K4', '           ', 'P-K4', '\n         ', ' 2.', ''), (' 2. ', '', 'P-Q4', '           ', 'PxP', '\n         ', ' 3.', ''), (' 3. ', '', 'QxP', '            ', 'Kt-QB3', '\n         ', ' 4.', ''), (' 4. ', '', 'Q-K3', '           ', 'Kt-KB3', '\n         ', ' 5.', ''), (' 5. ', '', 'P-KR3', '', '?', '', '', '')]
+
+move_sequence = [(' 1. ', 'P-K4', 'P-K4'), (' 2. ', 'P-Q4', 'PxP'), (' 3. ', 'QxP', 'Kt-QB3'), (' 4. ', 'Q-K3', 'Kt-KB3'), (' 5. ', 'P-KR3', '?')]
 
 play_move_sequence(move_sequence,'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1')
 

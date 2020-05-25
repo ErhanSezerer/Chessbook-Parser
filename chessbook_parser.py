@@ -6,6 +6,7 @@ import re
 import chess.engine
 from stockfish import Stockfish
 import string
+import numpy as np
 
 
 def main():
@@ -57,6 +58,7 @@ def main():
 	#split the book into paragraphs
 	book_paragraphs = book.split("\n\n")[3:]#first three are chapter headlines
 
+	print("test")
 	#regex for finding diagram referrals
 	r_single_refer = r'(Diagram|diagram|diag.|Diag.)(\n)?\s{1}?(\n)?[0-9]+'
 	r_multi_refer = r'(Diagrams|diagrams)(\n)?\s{1}?(\n)?[0-9]+(\n)?\s{1}?(\n)?and(\n)?\s{1}?(\n)?[0-9]+'
@@ -90,14 +92,17 @@ def main():
 				print(found_move[i][0])
 
 		found_numbered_item = re_numbered_item.findall(paragraph)
+		partial_move_text = []
 		if len(found_numbered_item)!=0:
-			print(found_numbered_item)
+			#print(found_numbered_item)
 			parag_print = True
 			print("numbered items:")
 			#initial_board_fen = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'
 			#play_move_sequence(found_numbered_item,initial_board_fen)
 			for j in range(len(found_numbered_item)):
-				print(found_numbered_item[j][2]+found_numbered_item[j][2]+found_numbered_item[j][4])
+				#print(found_numbered_item[j][2]+found_numbered_item[j][2]+found_numbered_item[j][4])
+				partial_move_text.append(tuple([found_numbered_item[j][0],found_numbered_item[j][2],found_numbered_item[j][4]]))
+		print(partial_move_text)
 
 		found_textual_move = re_movetextual.findall(paragraph)
 		if len(found_textual_move)!=0:
@@ -109,9 +114,6 @@ def main():
 			parag_print = False
 			print("Paragraph:\n" + paragraph)
 			print("----------------------------")
-
-
-
 
 
 
