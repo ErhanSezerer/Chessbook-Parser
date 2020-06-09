@@ -8,6 +8,13 @@ import numpy as np
 
 
 
+
+
+###
+###
+###
+###
+###
 def detect_paragraph_transitions(book_paragraphs):
 	addition_terms = {"furthermore","moreover","in addition","also","besides","further","and","not only…but also","both X and Y","as well as"}
 	addition_terms_refined = {"Diagram","furthermore","moreover","in addition","also","besides","further","as well as"}
@@ -36,7 +43,11 @@ def detect_paragraph_transitions(book_paragraphs):
 
 
 
-
+###
+###
+###
+###
+###
 def print_bag_of_transition_paragraphs(book_paragraphs,bag_of_transition_paragraphs):
 	for item in bag_of_transition_paragraphs:
 		print(book_paragraphs[item] + "\n")
@@ -47,6 +58,11 @@ def print_bag_of_transition_paragraphs(book_paragraphs,bag_of_transition_paragra
 
 
 
+###
+###
+###
+###
+###
 def parse_text(path, write_diagrams=False):
 	diagram_parse = False
 	diagram_count = 0
@@ -90,7 +106,11 @@ def parse_text(path, write_diagrams=False):
 
 
 
-
+###
+###
+###
+###
+###
 def extract_special_tokens(paragraph, diagram=True, move=True, text_move=True, num_item=True, print_all=False):
 
 	#tokens to search for
@@ -170,27 +190,55 @@ def extract_special_tokens(paragraph, diagram=True, move=True, text_move=True, n
 
 
 
-
+###
+###
+###
+###
+###
 def parse_book(book_path):
 
 	book = parse_text(book_path)
 
-
 	#split the book into paragraphs
 	book_paragraphs = book.split("\n\n")[3:]#first three are chapter headlines
 
+
+	contexts = []
+	context =[]
 	count = 0
+	sequence_start = 0
+	previous_sequence = 0
 	for paragraph in book_paragraphs:
 		count+=1
-		diagrams, moves, text_moves, num_items = extract_special_tokens(paragraph, print_all=True)
+		diagrams, moves, text_moves, num_items = extract_special_tokens(paragraph)
 
-		if count == 5:
-			exit()
+		if num_items != None:
+			sequence_start = int(re.search(r'^\d+', num_items[0][0].strip()).group())
+			sequence_end = int(re.search(r'^\d+', num_items[-1][0].strip()).group())
 
+			if sequence_start < previous_sequence:
+				contexts.append(context)
+				context = []
+				context.append(paragraph)
+			else:
+				context.append(paragraph)
+				
+			previous_sequence = sequence_end
+			#print(str(sequence_start) + " " + str(sequence_end))
+		else:
+			context.append(paragraph)
+			#print("0")
 
-	bag_of_transition_paragraphs = detect_paragraph_transitions(book_paragraphs)
+		
+	if len(context)>0:
+		contexts.append(context)
+	print(len(contexts))
+	print(count)
 
-	print_bag_of_transition_paragraphs(book_paragraphs, bag_of_transition_paragraphs)
+	
+	#bag_of_transition_paragraphs = detect_paragraph_transitions(book_paragraphs)
+
+	#print_bag_of_transition_paragraphs(book_paragraphs, bag_of_transition_paragraphs)
 
 
 
