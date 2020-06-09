@@ -1,0 +1,22 @@
+
+.idea/workspace.xml
+__pycache__/move_operations.cpython-37.pyc
+__pycache__/parameters.cpython-37.pyc
+chessbook_parser_save.py
+data/book/CH2 - Hints For Beginners.txt
+doc2vec/NYT-DBOW_test.model
+doc2vec/nyt/nyt/NYT-DBOW.model
+doc2vec/nyt/nyt/NYT-DBOW.model.docvecs.vectors_docs.npy
+doc2vec/nyt/nyt/NYT-DBOW.model.trainables.syn1neg.npy
+doc2vec/PV-DBOW.model
+doc2vec/PV-DBOW.model.docvecs.vectors_docs.npy
+doc2vec/PV-DBOW.model.trainables.syn1neg.npy
+doc2vec/PV-DBOW.model.wv.vectors.npy
+paragraph_processing.py
+paragraph_similarities.txt
+parameters.py
+doc2vec/wiki/NYT-DBOW.model
+doc2vec/nyt/nyt/NYT-DBOW.model.wv.vectors.npy
+data/book/CH2 - Hints For Beginners.txt
+parameters.py
+parameters.py

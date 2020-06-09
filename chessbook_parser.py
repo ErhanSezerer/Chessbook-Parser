@@ -8,6 +8,38 @@ from stockfish import Stockfish
 import string
 import numpy as np
 
+def detect_paragraph_transitions(book_paragraphs):
+	addition_terms = {"furthermore","moreover","in addition","also","besides","further","and","not only…but also","both X and Y","as well as"}
+	addition_terms_refined = {"Diagram","furthermore","moreover","in addition","also","besides","further","as well as"}
+	example_terms = {"for example","for instance","to illustrate","specifically","such as","in particular","namely","one example is","for one","not the least"}
+	example_terms_refined = {"case","example","for example","for instance","to illustrate","specifically","such as","in particular","namely","one example is","for one","not the least"}
+	contrast_terms = {"in contrast","however","yet","at the same time","nevertheless","though","although","conversely","while","on the one hand","on the other hand","on the contrary"}
+	comparison_terms = {"similarly","likewise","similar to","by comparison","in a similar manner","in the same way","by the same token","in similar fashion"}
+	emphasis_terms = {"indeed","of course","in fact","most importantly","above all","certainly","besides","further","undoubtedly","especially","truly"}
+	addition_terms_refined.update(example_terms_refined)
+	addition_terms_refined.update(contrast_terms)
+	addition_terms_refined.update(comparison_terms)
+	addition_terms_refined.update(emphasis_terms)
+	bag_of_transition_paragraphs = dict()
+	for paragraph in book_paragraphs:
+		for term in addition_terms_refined:
+			result = paragraph.find(term)
+			if result != -1 and result < 120:
+				paragraph_index = book_paragraphs.index(paragraph)
+				if paragraph[0].isupper():
+					try:
+						bag_of_transition_paragraphs[paragraph_index].append(term)
+					except KeyError:
+						bag_of_transition_paragraphs[paragraph_index] = [term]
+
+	return bag_of_transition_paragraphs
+
+def print_bag_of_transition_paragraphs(book_paragraphs,bag_of_transition_paragraphs):
+	for item in bag_of_transition_paragraphs:
+		print(book_paragraphs[item] + "\n")
+		print(bag_of_transition_paragraphs.get(item))
+		print("\n")
+
 
 def main():
 	#for parsing diagrams
@@ -39,6 +71,7 @@ def main():
 			#diagram end
 			elif diagram_parse and any(x in line for x in ["Diag.","diag.","DIAG.","Diagram 19."]):
 				diagram_parse = False
+				book += line#for preserving diagram caption
 				if PARAM.write_diagrams:
 					FEN_notation = get_FEN_notation(board)
 					diagram_string += ("\nFEN:" + FEN_notation)
@@ -58,7 +91,10 @@ def main():
 	#split the book into paragraphs
 	book_paragraphs = book.split("\n\n")[3:]#first three are chapter headlines
 
-	print("test")
+	bag_of_transition_paragraphs = detect_paragraph_transitions(book_paragraphs)
+
+	print_bag_of_transition_paragraphs(book_paragraphs, bag_of_transition_paragraphs)
+
 	#regex for finding diagram referrals
 	r_single_refer = r'(Diagram|diagram|diag.|Diag.)(\n)?\s{1}?(\n)?[0-9]+'
 	r_multi_refer = r'(Diagrams|diagrams)(\n)?\s{1}?(\n)?[0-9]+(\n)?\s{1}?(\n)?and(\n)?\s{1}?(\n)?[0-9]+'

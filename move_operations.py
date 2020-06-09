@@ -53,7 +53,6 @@ def capture(board,source_piece,target_piece):
             if str(captures) == source_piece and str(captured) == target_piece:
                 print(str(captures) + "\tcaptures\t" + str(captured))
                 board.push(m)
-                print(board)
                 break
 
                 # end of for loop
@@ -73,10 +72,11 @@ def play_move_sequence(move_sequence,initial_board_fen):
                 board.push_san(formal_move[0] + formal_move[1])
         else:
             capture(board, formal_move[0], formal_move[1].lower())
-        print(board)
         print(formal_move)
+        print(board)
         if move_sequence[j][2] == "?":
             break
+        print(move_sequence[j][2])
         formal_move = parse_formal_move(move_sequence[j][2], "black")
         if formal_move[2] == False:
             if formal_move[0] == "P":
@@ -88,12 +88,15 @@ def play_move_sequence(move_sequence,initial_board_fen):
                     board.push_san(formal_move[0] + formal_move[1])
         else:
             capture(board, formal_move[0].lower(), formal_move[1])
-        print(board)
         print(formal_move)
+        print(board)
     return
 
 
 move_sequence = [(' 1. ', 'P-K4', 'P-K4'), (' 2. ', 'P-Q4', 'PxP'), (' 3. ', 'QxP', 'Kt-QB3'), (' 4. ', 'Q-K3', 'Kt-KB3'), (' 5. ', 'P-KR3', '?')]
+whole_move_sequence = [(' 1. ', 'P-K4', 'P-K4'), (' 2. ', 'P-Q4', 'PxP'), (' 3. ', 'QxP', 'Kt-QB3'), (' 4. ', 'Q-K3', 'Kt-KB3'), (' 5. ', 'P-KR3', '?'),
+(' 5. ', '...', 'B-K2'), (' 6. ', 'P-QR3?', '?'), (' 6. ', '...', 'Castles'), (' 7. ', 'B-B', '4'), (' 7. ', '...', 'R-K1'), (' 8. ', 'Q-QKt', '3'),
+(' 8. ', '...', 'P-Q4'), (' 9. ', 'BxP', 'KtxB'), (' 10. ', 'QxKt', 'QxQ'), (' 11. ', 'PxQ', 'B-Kt5'), (' 12. ', 'K-Q1', 'R-K8')]
 
 play_move_sequence(move_sequence,'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1')
 
