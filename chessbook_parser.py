@@ -1,12 +1,12 @@
-from parameters import PARAM
 import os
 from diagram_extractor import *
-from move_operations import *
+#from move_operations import *
 import re
-import chess.engine
-from stockfish import Stockfish
 import string
 import numpy as np
+
+
+
 
 def detect_paragraph_transitions(book_paragraphs):
 	addition_terms = {"furthermore","moreover","in addition","also","besides","further","and","not only…but also","both X and Y","as well as"}
@@ -34,6 +34,9 @@ def detect_paragraph_transitions(book_paragraphs):
 
 	return bag_of_transition_paragraphs
 
+
+
+
 def print_bag_of_transition_paragraphs(book_paragraphs,bag_of_transition_paragraphs):
 	for item in bag_of_transition_paragraphs:
 		print(book_paragraphs[item] + "\n")
@@ -41,20 +44,18 @@ def print_bag_of_transition_paragraphs(book_paragraphs,bag_of_transition_paragra
 		print("\n")
 
 
-def main():
-	#for parsing diagrams
+
+
+
+def parse_text(path, write_diagrams=False):
 	diagram_parse = False
 	diagram_count = 0
 	board = []
 	diagram_string = ""
 	book = ""
 
-
-	#START PARSING
-	with open(PARAM.book_path, "r", encoding="utf8") as file_handler:
-
+	with open(path, "r", encoding="utf8") as file_handler:
 		for line in file_handler:
-
 			#diagram start
 			if line.strip()=="---------------------------------------" and not diagram_parse:
 				board.append(line)
@@ -71,8 +72,7 @@ def main():
 			#diagram end
 			elif diagram_parse and any(x in line for x in ["Diag.","diag.","DIAG.","Diagram 19."]):
 				diagram_parse = False
-				book += line#for preserving diagram caption
-				if PARAM.write_diagrams:
+				if write_diagrams:
 					FEN_notation = get_FEN_notation(board)
 					diagram_string += ("\nFEN:" + FEN_notation)
 
@@ -84,16 +84,21 @@ def main():
 			#not a diagram
 			else:		
 				book += line
+	return book
 
 
-	
 
-	#split the book into paragraphs
-	book_paragraphs = book.split("\n\n")[3:]#first three are chapter headlines
 
-	bag_of_transition_paragraphs = detect_paragraph_transitions(book_paragraphs)
 
-	print_bag_of_transition_paragraphs(book_paragraphs, bag_of_transition_paragraphs)
+
+def extract_special_tokens(paragraph, diagram=True, move=True, text_move=True, num_item=True, print_all=False):
+
+	#tokens to search for
+	diagrams = None
+	moves = None
+	text_moves = None
+	num_items = None
+
 
 	#regex for finding diagram referrals
 	r_single_refer = r'(Diagram|diagram|diag.|Diag.)(\n)?\s{1}?(\n)?[0-9]+'
@@ -101,7 +106,7 @@ def main():
 	re_diagram  = re.compile("(%s|%s)"%(r_single_refer,r_multi_refer))
 
 	#regex for finding formal moves
-	r_formal = r'\s{1}(R|Kt|B|Q|K|P)(R|Kt|B|Q|K|P)?\s?(-|x|X)\s?(\n)?(R|Kt|B|Q|K|P)(R|Kt|B|Q|K|P)?(\d)?(\s)?(double)?(\n)?(ch)?(mate)?'
+	r_formal = r'\s{1}(R|Kt|B|Q|K|P)(R|Kt|B|Q|K|P)?\s?(-|x|X)\s?(\n)?(R|Kt|B|Q|K|P)(R|Kt|B|Q|K|P)?(\d)?(\s)?(double)?(\n)?(\s)?(ch)?(mate)?'
 	re_move = re.compile("(%s)"%(r_formal))
 
 	#regex for finding textual move descriptions
@@ -109,53 +114,86 @@ def main():
 	re_movetextual = re.compile("(%s)"%(r_move_desc))
 
 	#regex for finding numbered items to catch move pairs
-	r_numbered_item = '(\s[\d]+\. )(.*?)(\S+)(.*?)(\S+)(.*?)(?=(\s[\d]+\.)|($))'
-	re_numbered_item = re.compile(r_numbered_item,re.DOTALL)
+	r_seq_start = r'(\s?[\d]+\.)(\s*)?'
+	r_seq_mid = r',?(\s+)'
+	r_formal_seq_special = r'((Castles|castles)( )?(QR|KR)?|\.\.\.)'
+	r_formal_seq = r'(R|Kt|B|Q|K|P)(\n)?(R|Kt|B|Q|K|P)?(\n)?(-|x|X)(\n)?(R|Kt|B|Q|K|P)(R|Kt|B|Q|K|P)?(\d)?(\s)?(double)?(\s)?(ch)?(\s)?(mate)?'
+	r_formal_seq_end = r'(\!+|\?+)'
+	re_numbered_item = re.compile("(%s(%s|%s)%s?(%s(%s|%s)%s?)?)"%(r_seq_start, r_formal_seq, r_formal_seq_special, r_formal_seq_end, r_seq_mid, r_formal_seq, r_formal_seq_special, r_formal_seq_end))
+	
 
-	for paragraph in book_paragraphs:
-		parag_print = False
+	if diagram:
 		found_diag = re_diagram.findall(paragraph)
 		if len(found_diag)!=0:
-			parag_print = True
-			print("diagrams:")
-			for i in range(len(found_diag)):
-				print(found_diag[i][0])
+			diagrams = found_diag
+			if print_all:
+				print("diagrams:")
+				for i in range(len(found_diag)):
+					print(found_diag[i][0])
+
+	if move:
 		found_move = re_move.findall(paragraph)
 		if len(found_move)!=0:
-			parag_print = True
-			print("moves:")
-			for i in range(len(found_move)):
-				print(found_move[i][0])
+			moves = found_move
+			if print_all:
+				print("moves:")
+				for i in range(len(found_move)):
+					print(found_move[i][0])
 
+	if num_item:
 		found_numbered_item = re_numbered_item.findall(paragraph)
-		partial_move_text = []
 		if len(found_numbered_item)!=0:
-			#print(found_numbered_item)
-			parag_print = True
-			print("numbered items:")
-			#initial_board_fen = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'
-			#play_move_sequence(found_numbered_item,initial_board_fen)
-			for j in range(len(found_numbered_item)):
-				#print(found_numbered_item[j][2]+found_numbered_item[j][2]+found_numbered_item[j][4])
-				partial_move_text.append(tuple([found_numbered_item[j][0],found_numbered_item[j][2],found_numbered_item[j][4]]))
-		print(partial_move_text)
-
+			num_items = found_numbered_item
+			if print_all:
+				print("numbered items:")
+				#initial_board_fen = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'
+				#play_move_sequence(found_numbered_item,initial_board_fen)
+				for item in found_numbered_item:
+					print(item[0].strip())
+				
+	if text_move:
 		found_textual_move = re_movetextual.findall(paragraph)
 		if len(found_textual_move)!=0:
-			parag_print = True
-			print("textual move descriptions:")
-			for i in range(len(found_textual_move)):
-				print(found_textual_move[i][0])
-		if parag_print:
-			parag_print = False
-			print("Paragraph:\n" + paragraph)
-			print("----------------------------")
+			text_moves = found_textual_move
+			if print_all:
+				print("textual move descriptions:")
+				for i in range(len(found_textual_move)):
+					print(found_textual_move[i][0])
+
+	if print_all:
+		print("Paragraph:\n" + paragraph)
+		print("----------------------------")
+
+	return 	diagrams, moves, text_moves, num_items
 
 
 
 
-if __name__ == "__main__":
-	main()
+
+
+def parse_book(book_path):
+
+	book = parse_text(book_path)
+
+
+	#split the book into paragraphs
+	book_paragraphs = book.split("\n\n")[3:]#first three are chapter headlines
+
+	count = 0
+	for paragraph in book_paragraphs:
+		count+=1
+		diagrams, moves, text_moves, num_items = extract_special_tokens(paragraph, print_all=True)
+
+		if count == 5:
+			exit()
+
+
+	bag_of_transition_paragraphs = detect_paragraph_transitions(book_paragraphs)
+
+	print_bag_of_transition_paragraphs(book_paragraphs, bag_of_transition_paragraphs)
+
+
+
 
 
 

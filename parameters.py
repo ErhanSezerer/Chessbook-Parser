@@ -16,7 +16,6 @@ class parameters(object):
 	      		      	  "^R": "R", "^Kt": "N", "^B": "B", "^Q": "Q", "^K": "K", "^P": "P"}
 
 		#flags
-		self.write_diagrams = False
 
 
 
